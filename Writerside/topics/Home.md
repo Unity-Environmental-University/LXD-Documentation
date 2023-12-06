@@ -9,16 +9,13 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ## Part 1: Introduction to Writerside Interface
 
-### Download & Launch Writerside
-- [*Download*](https://www.jetbrains.com/writerside/download/) Jetbrains Writerside
-- Open JetBrains Writerside on your computer.
-
-### Download the project
-<!-- Replace this -->
-- [Download](https://google.com/) the project files.
-
-### Opening the project
-- Go to `File > Open` and navigate to where you downloaded the project.
+### Demo Setup
+1. [*Download*](https://www.jetbrains.com/writerside/download/) Jetbrains Writerside
+2. [Download](https://github.com/Unity-Environmental-University/Documentation-Demo/archive/refs/heads/main.zip) the 
+   project files.
+3. Open JetBrains Writerside on your computer.
+4. Opening the project:
+   - Go to `File > Open` and navigate to where you downloaded the project.
 
 ---
 
@@ -27,14 +24,15 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ---
 
-## Part 2: Using a Starter Template (5 Minutes)
+## Part 2: Using a Starter Template
 
 ### Create a New Markdown File with a Template
 - In the `Writerside` tab, click the `+ > Topic From Template > Starter`
+    ![newtopic](new_topic_options.png){border-effect="line" thumbnail="true" width="350"}
 
 ### Explore the Template
 - With the `Starter.md` file open, lets open the preview
-    ![open-preview.png](open-preview.png){ border-effect="line" thumbnail="true" width="350"}
+    ![openpreview.gif](openpreview.gif){ border-effect="line" thumbnail="true" width="350"}
 - Review the pre-filled content and structure.
 - Understand how it structures a document.
 
@@ -52,16 +50,16 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ---
 
-## Part 4: Building and Previewing Your Document
-
-### Build the Document
-- Use the build feature to convert your Markdown file into HTML.
-
 ### Preview in Browser
-- Find the generated HTML file in your project directory.
-- Right-click on it and select `Open in Browser`.
+- At the top right of the preview window, we can click the `Open in Browser` button
+   ![open-preview.png](open-preview.png){ border-effect="line" thumbnail="true" width="350"}
 
 ---
+
+## Part 4: Building Your Document
+
+### Build the Document
+>We will be doing builds through our source control at a later time.
 
 ## Part 5: Wrap-Up and Resources
 
