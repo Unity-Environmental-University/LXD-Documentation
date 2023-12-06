@@ -31,9 +31,7 @@ height="400"/>
 .topic files
 : `topic.topic` files are xml files. They cannot use markdown.
 
-### Structured Directories
-- Organize files into directories based on topics or chapters.
-- Example: `GettingStarted`, `AdvancedTopics`.
+---
 
 ## Working with the File Structure
 
