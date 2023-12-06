@@ -44,6 +44,9 @@ out/
 build/
 _releases/
 
+#Builds
+webHelpDEMO2-all.zip
+
 # Environment files
 .env
 .env.local
