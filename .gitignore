@@ -1,0 +1,64 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Text editor and IDE files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime*
+*.atom*
+*.esproj
+*.esproj.vspscc
+*.sln
+*.suo
+*.csproj
+*.csproj.user
+*.userprefs
+
+# Log files
+*.log
+
+# Compiled files
+*.class
+*.pyc
+
+# Output files
+*.pdf
+*.docx
+*.epub
+*.mobi
+*.exe
+*.o
+*.dll
+
+# Dependency directories (node_modules, vendor, etc.)
+node_modules/
+vendor/
+
+# Build directories
+dist/
+out/
+build/
+_releases/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+
+# Others
+*.sass-cache
+.cache/
+.jekyll-cache/
+.jekyll-metadata
+_site/
