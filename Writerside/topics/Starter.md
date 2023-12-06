@@ -6,7 +6,7 @@ You can use it as a sandbox to play with Writerside features, and remove it from
 ## Add new topics
 You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
 
-![Create new topic options](new_topic_options.png){ width=290 }{border-effect=line}
+![Create new topic options](new_topic_options.png){ width="290" border-effect="line" thumbnail="true"} 
 
 ## Write content
 %product% supports two types of markup: Markdown and XML.
