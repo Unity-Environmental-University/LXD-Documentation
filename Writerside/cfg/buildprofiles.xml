@@ -6,6 +6,12 @@
     <build-profile instance="hi">
         <variables>
             <noindex-content>true</noindex-content>
+            <primary-color>forest</primary-color>
+            <header-logo>UEU-Logo-White.png</header-logo>
+            <product-web-url>https://unity.edu</product-web-url>
+            <download-title>Do A Thing!</download-title>
+            <download-page>https://media1.tenor.com/m/SUfodgnTHnAAAAAd/dance-dog.gif</download-page>
+            <showDownloadButton>true</showDownloadButton>
         </variables>
     </build-profile>
 
