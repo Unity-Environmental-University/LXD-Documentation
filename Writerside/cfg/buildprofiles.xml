@@ -22,5 +22,9 @@
             <showDownloadButton>true</showDownloadButton>
         </variables>
     </build-profile>
-
+  <footer>
+        <copyright>Unity Environmental University 2024</copyright>
+        <link href="https://unityextendedreality.com/documentation">Documentation Home</link>
+        <social type="email" href="mailto:xr@unity.edu">Email Us</social>
+    </footer>
 </buildprofiles>
