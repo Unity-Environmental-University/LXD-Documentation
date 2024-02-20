@@ -6,9 +6,6 @@
                  name="JetBrains Writerside: Quick Start Activity for Learning Designers"
                  start-page="Home.md">
 
-    <toc-element topic="Home.md">
-        <toc-element topic="filestructure.md"/>
-    </toc-element>
     <toc-element topic="Templates.md">
         <toc-element topic="Default-topic.md"/>
         <toc-element topic="Starter.md"/>
@@ -16,5 +13,8 @@
         <toc-element topic="Overview.md"/>
         <toc-element topic="Reference.md"/>
         <toc-element topic="Tutorial.md"/>
+    </toc-element>
+    <toc-element topic="Home.md">
+        <toc-element topic="filestructure.md"/>
     </toc-element>
 </instance-profile>
