@@ -6,6 +6,7 @@
     <build-profile instance="demo">
       <variables>
             <noindex-content>true</noindex-content>
+            <custom-favicons>favicon.png</custom-favicons>
             <primary-color>forest</primary-color>
             <header-logo>UEU-Logo-White.png</header-logo>
             <product-web-url>https://unity.edu</product-web-url>
@@ -16,7 +17,6 @@
     </build-profile>
   <footer>
         <copyright>Unity Environmental University 2024</copyright>
-        <link href="https://unityextendedreality.com/documentation">Documentation Home</link>
         <social type="email" href="mailto:help@unity.edu">Email Us</social>
     </footer>
 </buildprofiles>
