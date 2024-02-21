@@ -6,7 +6,6 @@
     <build-profile instance="demo">
       <variables>
             <noindex-content>true</noindex-content>
-            <custom-favicons>favicon.png</custom-favicons>
             <primary-color>forest</primary-color>
             <header-logo>UEU-Logo-White.png</header-logo>
             <product-web-url>https://unity.edu</product-web-url>
