@@ -3,19 +3,38 @@
 ## Objective
 Introduce learning designers to JetBrains Writerside by creating and previewing a document
 
->**Duration:** 20 Minutes
+>**Duration:** 30 Minutes
 
 ---
 
 ## Part 1: Introduction to Writerside Interface
 
-### Demo Setup
-1. [*Download*](https://www.jetbrains.com/writerside/download/) Jetbrains Writerside
-2. [Download](https://github.com/Unity-Environmental-University/Documentation-Demo/archive/refs/heads/main.zip) the 
-   project files.
+### What you need
+1. [Download](https://desktop.github.com/) GitHub Desktop.
+2. [*Download*](https://www.jetbrains.com/writerside/download/) Jetbrains Writerside.
+---
+
+### Getting Started with GitHub
+1. [Create an Account with GitHub](https://github.com/signup)
+    - Once your account has been created, post the email you used in the teams group chat.
+2. Open & Install the downloaded GitHub Desktop Application.
+    - Once opened, Log into the application with your new GitHub account.
+---
+> It may be useful to have [_**This Page**_](https://github.com/Unity-Environmental-University/documentation-demo) 
+> open, as we may reference it throughout the playground.
+> {style=note}
+
+### Project Setup
+1. Within GitHub Desktop, Go to `File > Clone Repository`
+![github-clone-project.png](github-clone-project.png){width="400" border-effect="line" thumbnail="true"}
+>_You can click the image to make it bigger!_
+>{style=note}
+2. Select `Unity-Environmental-University/Documentation-Demo` and choose where you would like to download the project to.
+![github-clone-location.png](github-clone-location.png){width="400" border-effect="line" thumbnail="true"}
 3. Open JetBrains Writerside on your computer.
 4. Opening the project:
-   - Go to `File > Open` and navigate to where you downloaded the project.
+    - Go to `File > Open` and navigate to where you downloaded the project.
+![writerside-open.png](writerside-open.png){width="400" border-effect="line" thumbnail="true"}
 
 ---
 
