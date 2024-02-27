@@ -18,7 +18,6 @@
     <build-profile instance="sme">
         <variables>
             <primary-color>forest</primary-color>
-            <custom-favicons>favicon.png</custom-favicons>
             <header-logo>UEU-Logo-White.png</header-logo>
             <product-web-url>https://unity.edu</product-web-url>
             <download-title>SME Docs</download-title>

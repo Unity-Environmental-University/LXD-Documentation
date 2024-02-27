@@ -6,5 +6,7 @@
                  name="SME Documentation"
                  start-page="sme-documentation.md">
 
-    <toc-element topic="sme-documentation.md"/>
+    <toc-element topic="sme-documentation.md">
+        <toc-element topic="file-structure.md"/>
+    </toc-element>
 </instance-profile>
