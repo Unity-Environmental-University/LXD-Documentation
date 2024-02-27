@@ -20,7 +20,7 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 2. Open & Install the downloaded GitHub Desktop Application.
     - Once opened, Log into the application with your new GitHub account.
 ---
-> It may be useful to have [_**This Page**_](https://github.com/Unity-Environmental-University/documentation-demo) 
+> It may be useful to have [_**This Page**_](https://github.com/Unity-Environmental-University/lxd-documentation) 
 > open, as we may reference it throughout the playground.
 > {style=note}
 
@@ -29,7 +29,7 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 ![github-clone-project.png](github-clone-project.png){width="400" border-effect="line" thumbnail="true"}
 >_You can click the image to make it bigger!_
 >{style=note}
-2. Select `Unity-Environmental-University/Documentation-Demo` and choose where you would like to download the project to.
+2. Select `Unity-Environmental-University/LXD-Documentation` and choose where you would like to download the project to.
 ![github-clone-location.png](github-clone-location.png){width="400" border-effect="line" thumbnail="true"}
 3. Open JetBrains Writerside on your computer.
 4. Opening the project:
