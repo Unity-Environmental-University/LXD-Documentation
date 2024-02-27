@@ -46,6 +46,8 @@ _releases/
 
 #Builds
 webHelpDEMO2-all.zip
+webHelpLXD2-all.zip
+webHelpSME2-all.zip
 
 # Environment files
 .env
