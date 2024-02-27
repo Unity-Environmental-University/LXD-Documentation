@@ -3,13 +3,13 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables/>
-    <build-profile instance="demo">
+    <build-profile instance="lxd">
       <variables>
           <primary-color>forest</primary-color>
             <custom-favicons>favicon.png</custom-favicons>
             <header-logo>UEU-Logo-White.png</header-logo>
             <product-web-url>https://unity.edu</product-web-url>
-            <download-title>Do A Thing!</download-title>
+            <download-title>SME Docs</download-title>
             <download-page>https://media1.tenor.com/m/SUfodgnTHnAAAAAd/dance-dog.gif</download-page>
             <showDownloadButton>true</showDownloadButton>
           <noindex-content>true</noindex-content>
