@@ -16,7 +16,7 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ### Getting Started with GitHub
 1. [Create an Account with GitHub](https://github.com/signup)
-    - Once your account has been created, post the email you used in the teams group chat.
+    - Once your account has been created, post the email you used in the Teams group chat.
 2. Open & Install the downloaded GitHub Desktop Application.
     - Once opened, Log into the application with your new GitHub account.
 ---
@@ -46,8 +46,12 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 ## Part 2: Using a Starter Template
 
 ### Create a New Markdown File with a Template
-- In the `Writerside` tab, click the `+ > Topic From Template > Starter`
-    ![newtopic](new_topic_options.png){border-effect="line" thumbnail="true" width="350"}
+- In the `Writerside` tab, click the `+ > Topic From Template > Starter` 
+> Use the 'Markdown File' version of the template
+>{style=warning}
+---
+ ![newtopic](new_topic_options.png){border-effect="line" thumbnail="true" width="350"}
+
 
 ### Explore the Template
 - With the `Starter.md` file open, lets open the preview
