@@ -3,7 +3,7 @@
 ## Objective
 Introduce learning designers to JetBrains Writerside by creating and previewing a document
 
->**Duration:** 30 Minutes
+>**Duration**: 30 Minutes
 
 ---
 
@@ -11,7 +11,7 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ### What you need
 1. [Download](https://desktop.github.com/) GitHub Desktop.
-2. [*Download*](https://www.jetbrains.com/writerside/download/) Jetbrains Writerside.
+2. [Download](https://www.jetbrains.com/writerside/download/) Jetbrains Writerside.
 ---
 
 ### Getting Started with GitHub
