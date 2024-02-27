@@ -1,7 +1,11 @@
 # Familiarizing with the Writerside File Structure
 
 ## Overview
-Understanding the file structure in JetBrains Writerside is crucial for efficient document management and navigation. This guide provides an overview of the typical file structure and best practices for organizing your documentation projects.
+Review of the File Structure within Writerside.
+
+Understanding the file structure is crucial for efficient document management and navigation.
+This guide provides an overview of the typical file structure and best practices
+for organizing your documentation projects.
 
 ## Best Practices for File Organization
 

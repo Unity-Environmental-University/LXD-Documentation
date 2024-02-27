@@ -7,7 +7,7 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ---
 
-## Part 1: Introduction to Writerside Interface
+## Part 1: Downloads & GitHub Introduction
 
 ### What you need
 1. [Download](https://desktop.github.com/) GitHub Desktop.
@@ -23,8 +23,12 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 > It may be useful to have [_**This Page**_](https://github.com/Unity-Environmental-University/lxd-documentation) 
 > open, as we may reference it throughout the playground.
 > {style=note}
+---
 
-### Project Setup
+
+## Part 2: Project Setup
+
+### Cloning the Repository & Opening the Project
 1. Within GitHub Desktop, Go to `File > Clone Repository`
 ![github-clone-project.png](github-clone-project.png){width="400" border-effect="line" thumbnail="true"}
 >_You can click the image to make it bigger!_
@@ -38,16 +42,17 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ---
 
+## Part 3: Familiarizing with Writerside
+
 ### Explore the Interface
 - Familiarize yourself with the main areas: the editor, project explorer, and toolbar.
 
 ---
 
-## Part 2: Using a Starter Template
-
 ### Create a New Markdown File with a Template
 - In the `Writerside` tab, click the `+ > Topic From Template > Starter` 
-> Use the 'Markdown File' version of the template
+> Use the 'Markdown File' version of the template & Name it something _**Unique**_.
+> We will be going over the [File-System & Naming Conventions](file-structure.md) soon.
 >{style=warning}
 ---
  ![newtopic](new_topic_options.png){border-effect="line" thumbnail="true" width="350"}
@@ -61,7 +66,7 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ---
 
-## Part 3: Customizing the Template
+## Part 4: Customizing the Template
 
 ### Edit the Template
 - Replace placeholder text with your content.
@@ -79,12 +84,12 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ---
 
-## Part 4: Building Your Document
+## Part 5: Building Your Document
 
 ### Build the Document
 >We will be doing builds through our source control at a later time.
 
-## Part 5: Wrap-Up and Resources
+## Part 6: Wrap-Up and Resources
 
 ### Summarize the Activity
 - Reflect on using templates in Writerside for document creation.
