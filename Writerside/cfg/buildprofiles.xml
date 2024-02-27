@@ -10,10 +10,21 @@
             <header-logo>UEU-Logo-White.png</header-logo>
             <product-web-url>https://unity.edu</product-web-url>
             <download-title>SME Docs</download-title>
-            <download-page>https://media1.tenor.com/m/SUfodgnTHnAAAAAd/dance-dog.gif</download-page>
+            <download-page>https://unityextendedreality.com/documentation/sme/</download-page>
             <showDownloadButton>true</showDownloadButton>
           <noindex-content>true</noindex-content>
       </variables>
+    </build-profile>
+    <build-profile instance="sme">
+        <variables>
+            <primary-color>forest</primary-color>
+            <custom-favicons>favicon.png</custom-favicons>
+            <header-logo>UEU-Logo-White.png</header-logo>
+            <product-web-url>https://unity.edu</product-web-url>
+            <download-title>SME Docs</download-title>
+            <showDownloadButton>false</showDownloadButton>
+            <noindex-content>true</noindex-content>
+        </variables>
     </build-profile>
   <footer>
         <copyright>Unity Environmental University 2024</copyright>
