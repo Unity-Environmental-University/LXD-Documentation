@@ -1,8 +1,9 @@
 # How To Build
 
-How to build the Documentation, and publish it.
+How to build the Documentation and publish it.
 
-We will cover how to Publish your changes and have it automatically deploy to the [Documentation Site](https://unity-environmental-university.github.io/LXD-Documentation/)
+We will cover how to Publish your changes and have it
+automatically deployed to the [Documentation Site](https://unity-environmental-university.github.io/LXD-Documentation/)
 
 ## Before you start
 
@@ -23,7 +24,6 @@ With this step, we can tell others *what* we changed and *why*.
 1. Title your changeset, and describe your changes
 ![github-commit.png](github-commit.png){ border-effect="line" thumbnail="true" width="350"}
 2. Once you have made the appropriate notes, click `Commit to main`
----
 3. Now we need to **Push** your **Commit** to the repository
 ![github-push.png](github-push.png){ border-effect="line" thumbnail="true" width="350"}
 This will trigger a script designed to automatically build and deploy your changes to the [Live Documentation](https://unity-environmental-university.github.io/LXD-Documentation/) 

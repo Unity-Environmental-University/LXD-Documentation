@@ -1,7 +1,6 @@
-# Getting Started
+# Documentation Playground Activity
 
-## Objective
-Introduce learning designers to JetBrains Writerside by creating and previewing a document
+An Activity to introduce learning designers to JetBrains Writerside by creating and previewing a document
 
 >**Duration**: 30 Minutes
 
@@ -31,10 +30,10 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 ### Cloning the Repository & Opening the Project
 1. Within GitHub Desktop, Go to `File > Clone Repository`
 ![github-clone-project.png](github-clone-project.png){width="400" border-effect="line" thumbnail="true"}
->_You can click the image to make it bigger!_
+>_You can click the image to make it bigger!_ 
 >{style=note}
 2. Select `Unity-Environmental-University/LXD-Documentation` and choose where you would like to download the project to.
-![github-clone-location.png](github-clone-location.png){width="400" border-effect="line" thumbnail="true"}
+![github-clone-location.png](github-clone-location.png){ width="400" border-effect="line" thumbnail="true"}
 3. Open JetBrains Writerside on your computer.
 4. Opening the project:
     - Go to `File > Open` and navigate to where you downloaded the project.
@@ -55,12 +54,12 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 > We will be going over the [File-System & Naming Conventions](file-structure.md) soon.
 >{style=warning}
 ---
- ![newtopic](new_topic_options.png){border-effect="line" thumbnail="true" width="350"}
+ ![new-topic](new_topic_options.png){border-effect="line" thumbnail="true" width="350"}
 
 
 ### Explore the Template
-- With the `Starter.md` file open, lets open the preview
-    ![openpreview.gif](openpreview.gif){ border-effect="line" thumbnail="true" width="350"}
+- With the `Starter.md` file open, let's open the preview
+    ![open-preview.gif](openpreview.gif){ border-effect="line" thumbnail="true" width="350"}
 - Review the pre-filled content and structure.
 - Understand how it structures a document.
 
@@ -86,7 +85,7 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ## Part 5: File-Structures & Building
 
-1. We will proceed to [File-Structures](file-structure.md)
+1. We will proceed to [File Structures](file-structure.md)
 2. Then we will cover [How to Build/Deploy the documentation](How-To-Build.md)
 3. Lastly, we will move to Part 6.
 ---
