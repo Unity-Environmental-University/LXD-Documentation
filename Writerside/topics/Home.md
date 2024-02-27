@@ -84,10 +84,12 @@ Introduce learning designers to JetBrains Writerside by creating and previewing 
 
 ---
 
-## Part 5: Building Your Document
+## Part 5: File-Structures & Building
 
-### Build the Document
->We will be doing builds through our source control at a later time.
+1. We will proceed to [File-Structures](file-structure.md)
+2. Then we will cover [How to Build/Deploy the documentation](How-To-Build.md)
+3. Lastly, we will move to Part 6.
+---
 
 ## Part 6: Wrap-Up and Resources
 
