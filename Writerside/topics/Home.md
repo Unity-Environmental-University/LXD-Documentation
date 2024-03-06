@@ -15,7 +15,7 @@ An Activity to introduce learning designers to JetBrains Writerside by creating 
 
 ### Getting Started with GitHub
 1. [Create an Account with GitHub](https://github.com/signup)
-    - Once your account has been created, post the email you used in the Teams group chat.
+    - Once your account has been created, **post the email you used in the Teams group chat**.
 2. Open & Install the downloaded GitHub Desktop Application.
     - Once opened, Log into the application with your new GitHub account.
 ---
@@ -30,8 +30,10 @@ An Activity to introduce learning designers to JetBrains Writerside by creating 
 ### Cloning the Repository & Opening the Project
 1. Within GitHub Desktop, Go to `File > Clone Repository`
 ![github-clone-project.png](github-clone-project.png){width="400" border-effect="line" thumbnail="true"}
->_You can click the image to make it bigger!_ 
+>**Tip!** _You can click the image to make it bigger!_
 >{style=note}
+<!-- This is done with the 'thumbnail' element attached to the image -->
+
 2. Select `Unity-Environmental-University/LXD-Documentation` and choose where you would like to download the project to.
 ![github-clone-location.png](github-clone-location.png){ width="400" border-effect="line" thumbnail="true"}
 3. Open JetBrains Writerside on your computer.
