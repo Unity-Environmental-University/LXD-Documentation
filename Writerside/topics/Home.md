@@ -2,7 +2,7 @@
 
 An Activity to introduce learning designers to JetBrains Writerside by creating and previewing a document
 
->**Duration**: 30 Minutes
+>**Duration**: 60 Minutes
 
 ---
 
