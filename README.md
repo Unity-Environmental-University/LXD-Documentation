@@ -1,4 +1,4 @@
-# Unity Environmental University Learning Experiance Design Documentation
+# Unity Environmental University Learning Experience Design Documentation
 
 This repository contains educational materials and design documentation for learning designers at Unity Environmental University.
 
