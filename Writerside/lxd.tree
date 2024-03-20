@@ -18,4 +18,5 @@
         <toc-element topic="Reference.md"/>
         <toc-element topic="Tutorial.md"/>
     </toc-element>
+    <toc-element topic="Weekly-Overview-and-Objectives.md"/>
 </instance-profile>
