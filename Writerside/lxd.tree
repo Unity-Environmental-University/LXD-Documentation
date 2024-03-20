@@ -6,6 +6,8 @@
                  name="LXD Documentation"
                  start-page="Home.md">
 
+    <toc-element topic="Assignments-and-Discussions.md"/>
+    <toc-element topic="Course-Edit-and-Feedback-Form.md"/>
     <toc-element topic="Home.md">
         <toc-element topic="file-structure.md"/>
         <toc-element topic="How-To-Build.md"/>
