@@ -10,6 +10,9 @@
         <toc-element topic="file-structure.md"/>
         <toc-element topic="How-To-Build.md"/>
     </toc-element>
+    <toc-element topic="Process-Manual-Introduction.md"/>
+    <toc-element topic="Refresh-and-Redesign-Process.md"/>
+    <toc-element topic="Calendars.md"/>
     <toc-element topic="Templates.md">
         <toc-element topic="Default-topic.md"/>
         <toc-element topic="Starter.md"/>
