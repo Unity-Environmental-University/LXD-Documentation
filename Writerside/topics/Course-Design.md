@@ -5,16 +5,7 @@ The LXD team works with SMEs to design both undergraduate and graduate level cou
 
 For undergraduates, the asynchronous course design in addition to the five-week course schedule presents a unique structure for credit hours.
 
-Credit Hours
-Minimum total required faculty-directed instruction
-Minimum total student-directed instructional hours
-Total minimum instructional hours
-Hours per week for 5-week term
-3
-45
-90
-135
-27
+
 
 | Credit Hours | Minimum total required faculty-directed instruction | Minimum total student-directed instructional hours | Total minimum instructional hours | Hours per week for 5-week term |
 |--------------|-----------------------------------------------------|----------------------------------------------------|-----------------------------------|--------------------------------|
@@ -22,16 +13,10 @@ Hours per week for 5-week term
 
 “Graduate students are expected to perform not only additional work beyond undergraduate expectations, but to submit work that is more in-depth and of higher quality as befits a graduate-level course. Graduate students are therefore expected to perform roughly a third more work than their undergraduate counterparts. Thus, one Unity graduate credit hour in an eight-week term is equal to at least 60 hours of student work.” (Unity DE Course Catalog)
 
-Credit Hours
-Minimum total required faculty-directed instruction
-Minimum total student-directed instructional hours
-Total minimum instructional hours
-Hours per week for 5-week term
-3
-60
-120
-180
-22.5
+| Credit Hours | Minimum total required faculty-directed instruction | Minimum total student-directed instructional hours | Total minimum instructional hours | Hours per week for 5-week term |
+|--------------|-----------------------------------------------------|----------------------------------------------------|-----------------------------------|--------------------------------|
+| 3            | 60                                                  | 120                                                | 180                               | 22.5                           |
+
 
 
 
@@ -45,12 +30,11 @@ Course design occurs in collaboration with a SME who can provide the specific co
 
 For further reading, consult these resources:
 
-ADDIE
-Bloom’s Taxonomy
-Gagne’s 9 Events of Instruction (Under “Learning Theory”)
-Quality Matters Framework
-Understanding by Design Framework
-Universal Design
-The UDL Guidelines
-Webb’s Depth of Knowledge
-Start typing here...
+[ADDIE](https://www.lib.purdue.edu/sites/default/files/directory/butler38/ADDIE.pdf)   
+[Bloom’s Taxonomy](https://www.cebm.net/wp-content/uploads/2016/09/Blooms-Taxonomy-Teacher-Planning-Kit.pdf)   
+[Gagne’s 9 Events of Instruction (Under “Learning Theory”)](https://www.niu.edu/facdev/_pdf/guide/learning/gagnes_nine_events_instruction.pdf)   
+[Quality Matters Framework](https://www.qualitymatters.org/sites/default/files/PDFs/StandardsfromtheQMHigherEducationRubric.pdf)   
+[Understanding by Design Framework](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/)   
+[Universal Design](https://www.washington.edu/doit/what-universal-design-0)   
+[The UDL Guidelines](https://udlguidelines.cast.org/)   
+[Webb’s Depth of Knowledge](https://www.aps.edu/sapr/documents/resources/Webbs_DOK_Guide.pdf)   
