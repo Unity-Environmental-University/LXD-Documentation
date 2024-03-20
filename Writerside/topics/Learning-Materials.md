@@ -1,0 +1,3 @@
+# Learning Materials
+
+The learning materials page is a repository of the week’s content, videos, articles, lectures, etc. The week’s resources are all presented on this page, but may be referenced more specifically in assignments or discussions (eg, read a specific article and post about it on the discussion board). These pages also contain an editorialization of some kind, such as a title, paragraph describing the resources, a meaningful quote, and/or resource-specific annotations.
