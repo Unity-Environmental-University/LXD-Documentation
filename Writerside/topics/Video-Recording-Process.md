@@ -1,4 +1,4 @@
-# SME Video Recording
+# SME Video Recording Process
 
 >*SMEs will record videos under direction from LTSS.*
 
