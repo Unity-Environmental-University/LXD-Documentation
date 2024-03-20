@@ -9,6 +9,7 @@
     <toc-element topic="Home.md">
         <toc-element topic="file-structure.md"/>
         <toc-element topic="How-To-Build.md"/>
+        <toc-element topic="Role-Definition-and-Course-“Ownership”-for-ID-SME.md"/>
     </toc-element>
     <toc-element topic="Templates.md">
         <toc-element topic="Default-topic.md"/>
