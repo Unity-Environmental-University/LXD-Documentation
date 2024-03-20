@@ -1,6 +1,6 @@
 # Course Design
 
-Course Design
+
 The LXD team works with SMEs to design both undergraduate and graduate level courses.
 
 For undergraduates, the asynchronous course design in addition to the five-week course schedule presents a unique structure for credit hours.
