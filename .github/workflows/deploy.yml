@@ -92,7 +92,6 @@ jobs:
             --application-name '${{env.C4JRHLL2NB}}' \
             --index-name '${{env.dev_unityedu}}' \
             --product '${{env.LXD}}' \
-            --version '${{env.1.0}}' \
             --index-directory algolia-indexes/ \
             2>&1 | tee algolia-update-index-log.txt
 
