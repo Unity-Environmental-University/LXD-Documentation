@@ -17,6 +17,7 @@
     <toc-element topic="Refresh-and-Redesign-Process.md"/>
     <toc-element topic="Calendars.md"/>
     <toc-element topic="Video-Recording-Process.md"/>
+    <toc-element topic="GIS-Courses.md"/>
     <toc-element topic="Templates.md">
         <toc-element topic="Default-topic.md"/>
         <toc-element topic="Starter.md"/>
@@ -28,5 +29,6 @@
     <toc-element topic="Weekly-Overview-and-Objectives.md"/>
     <toc-element topic="Learning-Materials.md"/>
     <toc-element topic="Quizzes.md"/>
+    <toc-element topic="Grading-in-Canvas.md"/>
     <toc-element topic="Role-Definition-and-Course-“Ownership”-for-ID-SME.md"/>
 </instance-profile>
