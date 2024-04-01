@@ -13,6 +13,10 @@
             <download-page>https://unityextendedreality.com/documentation/sme/</download-page>
             <showDownloadButton>true</showDownloadButton>
           <noindex-content>true</noindex-content>
+          <algolia-id>C4JRHLL2NB</algolia-id>
+          <algolia-index>dev_unityedu</algolia-index>
+          <algolia-api-key>027596e5ff9bd99b54c636889ad27a23</algolia-api-key>
+          <web-root>https://some.domain/</web-root>
       </variables>
     </build-profile>
     <build-profile instance="sme">
