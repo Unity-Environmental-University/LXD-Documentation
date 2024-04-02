@@ -16,7 +16,7 @@ env:
   ALGOLIA_ARTIFACT: 'algolia-indexes-SME.zip'
   ALGOLIA_APP_NAME: '5C3F77C61J'
   ALGOLIA_INDEX_NAME: 'dev_unityedu'
-  ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY }}'
+  ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY_SME }}'
   CONFIG_JSON_PRODUCT: 'SME'
   CONFIG_JSON_VERSION: '1.0'
 
@@ -96,7 +96,7 @@ jobs:
       - name: Unzip artifact
         run: |
           unzip -O UTF-8 -qq '${{ env.ALGOLIA_ARTIFACT }}' -d algolia-indexes
-          env algolia-key='${{env.ALGOLIA_KEY_SME}}' java -jar /opt/builder/help-publication-agent.jar \
+          env algolia-key='${{env.ALGOLIA_KEY}}' java -jar /opt/builder/help-publication-agent.jar \
           update-index \
           --application-name '${{env.ALGOLIA_APP_NAME}}' \
           --index-name '${{env.ALGOLIA_INDEX_NAME}}' \
