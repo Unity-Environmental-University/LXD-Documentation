@@ -6,6 +6,8 @@
                  name="LXD Documentation"
                  start-page="Home.md">
 
+    <toc-element topic="Wiki-Page-MBAQ-203.md"/>
+    <toc-element topic="OCR.md"/>
     <toc-element topic="Course-Project-Philosophy.md"/>
     <toc-element topic="Course-Development-Timeline-and-Workflow.md"/>
     <toc-element topic="Process-Manual-Introduction.md"/>

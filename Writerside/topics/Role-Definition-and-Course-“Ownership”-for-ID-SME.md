@@ -12,7 +12,7 @@ Course development is a highly collaborative process. The Learning Experience De
 
 ### **Academic Dean (D)**
 The Academic Dean is responsible for the ongoing development and implementation of a specific program and the academic experience of the program’s students. Related to course development, the Academic Dean is responsible for the following activities:
-- Hiring and supervising faculty and subject matter experts
+- Hiring and supervising faculty and subject-matter experts
 - Establishing the program level learning outcomes
 - Leading the decisions on the content of the curriculum
 - Aligning curriculum with Accreditation standards
