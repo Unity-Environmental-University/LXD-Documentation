@@ -27,6 +27,10 @@
             <download-title>SME Docs</download-title>
             <showDownloadButton>false</showDownloadButton>
             <noindex-content>true</noindex-content>
+            <algolia-id>5C3F77C61J</algolia-id>
+            <algolia-index>dev_unityedu</algolia-index>
+            <algolia-api-key>dbad12e31ad18b8d7c66b52b9362efe0</algolia-api-key>
+            <web-root>https://unityextendedreality.com</web-root>
         </variables>
     </build-profile>
   <footer>
