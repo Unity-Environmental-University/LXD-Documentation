@@ -8,4 +8,4 @@ This repository contains educational materials and design documentation for lear
 - Tutorials and Guides
 - Resource Library
 
-For more info, [contact us](xr@unity.edu)
+For more info, [contact us](mailto:xr@unity.edu)
