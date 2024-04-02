@@ -48,7 +48,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download artifacts
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4
         with:
           name: docs
           path: artifacts
@@ -57,33 +57,32 @@ jobs:
         uses: JetBrains/writerside-checker-action@v1
         with:
           instance: ${{ env.INSTANCE }}
-
   deploy:
-    needs: test
+    needs: [build, test] # or just needs: test if you want to ensure testing is completed successfully
     runs-on: ubuntu-latest
     steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v3
+      - name: Download artifact for deployment
+        uses: actions/download-artifact@v4
         with:
           name: docs
 
-      - name: Create and set permissions for deployment directory
-        run: mkdir -p deployment && chmod 777 deployment
+      - name: Prepare deployment directory
+        run: |
+          mkdir -p deployment
+          chmod 777 deployment
 
-      - name: Unzip artifact
-        uses: montudor/action-zip@v1
-        with:
-          args: unzip -qq ${{ env.ARTIFACT }} -d deployment
+      - name: Unzip artifact for deployment
+        run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d deployment
 
-      - name: FTP Deploy to Bluehost
+      - name: Deploy to Remote Server via FTP
         uses: SamKirkland/FTP-Deploy-Action@4.2.0
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: deployment/
-          server-dir: /public_html/documentation/sme/
-          
+          server-dir: /public_html/documentation/sme/ # Adjust this path as necessary for your remote server structure
+        
   publish-indexes:
     needs: [build, test, deploy]
     runs-on: ubuntu-latest
