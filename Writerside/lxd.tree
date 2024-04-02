@@ -6,6 +6,7 @@
                  name="LXD Documentation"
                  start-page="Home.md">
 
+    <toc-element topic="How-to-Upload-Files-to-Canvas.md"/>
     <toc-element topic="Course-Project-Philosophy.md"/>
     <toc-element topic="Home.md">
         <toc-element topic="file-structure.md"/>
