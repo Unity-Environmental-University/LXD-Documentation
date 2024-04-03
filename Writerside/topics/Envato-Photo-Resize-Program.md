@@ -14,7 +14,7 @@ With Envato photos, we need to resize the images, so they aren’t as large (fil
 
 ## How do I use this
 
-<video mini-player="true" src="https://youtu.be/-EWu6neymDc"/>
+<video mini-player="true" src="https://youtu.be/-EWu6neymDc" preview-src="compress-resize-thumbnail.png"/>
 
 <a href="https://youtu.be/-EWu6neymDc"></a>
 
