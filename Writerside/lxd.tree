@@ -7,6 +7,10 @@
                  start-page="Home.md">
 
     <toc-element topic="How-to-Upload-Files-to-Canvas.md"/>
+    <toc-element topic="Running-an-Outcomes-Report.md"/>
+    <toc-element topic="Lab-Courses.md"/>
+    <toc-element topic="Lab-Kits.md"/>
+    <toc-element topic="Equity-and-Inclusivity-Considerations-for-LXD-Designing-Courses.md"/>
     <toc-element topic="Course-Project-Philosophy.md"/>
     <toc-element topic="Home.md">
         <toc-element topic="file-structure.md"/>
