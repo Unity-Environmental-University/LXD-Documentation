@@ -6,6 +6,7 @@
                  name="LXD Documentation"
                  start-page="Home.md">
 
+    <toc-element topic="Updating-a-Syllabus.md"/>
     <toc-element topic="Course-Project-Philosophy.md"/>
     <toc-element topic="Home.md">
         <toc-element topic="file-structure.md"/>
@@ -15,6 +16,9 @@
     <toc-element topic="Refresh-and-Redesign-Process.md"/>
     <toc-element topic="Calendars.md"/>
     <toc-element topic="Video-Recording-Process.md"/>
+    <toc-element topic="Course-Overview-Page.md"/>
+    <toc-element topic="Weekly-Overview-Pages.md"/>
+    <toc-element topic="Course-Introduction.md"/>
     <toc-element topic="Templates.md">
         <toc-element topic="Default-topic.md"/>
         <toc-element topic="Starter.md"/>
