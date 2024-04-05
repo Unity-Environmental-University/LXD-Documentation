@@ -8,7 +8,7 @@ Sometimes, a course project overview will be saved as a Page in Canvas instead o
 students are submitting sections or “deliverables” of their course project throughout the course and are not submitting 
 everything at once at the end.
 
-# Editing a Page
+## Editing a Page
 Editing a page usually takes place in one of two ways: rich text editing or html. To access these, click the “edit” 
 button at the top right of the page you want to edit. The default editing space is the rich text editor (RTE). This is 
 typically sufficient for the types of edits we would like to make because the course development template has the 
