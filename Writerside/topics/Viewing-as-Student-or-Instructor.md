@@ -1,8 +1,10 @@
-# Viewing as Student or Instructor
+# Entering Course as a Student or Instructor
 
-## Testing
+Student preview mode should almost always be used, but in very specific cases you may need to enter Canvas as an individual student or instructor.
 
-Student preview mode should almost always be used (click the “student view” button at the top of the canvas page you’re working on to see it this way; in some cases you will need to “complete” the academic integrity agreement in order to view the page as a student) but in very specific cases you may need to enter Canvas as an individual student or instructor. You must be careful to not post, submit, make any correspondence, etc while in the course. Remember, you are “the student” or “the instructor” and acting as them.
+
+## Entering as a Student or Instructor
+You must be careful to not post, submit, make any correspondence, etc while in the course. Remember, you are not “the student” or “the instructor” and are acting as them.
 1. Go to Distance Education (Live). 
 2. Click “People” in the left menu. 
 3. Search for the student’s name or ID number or the instructor’s. 
@@ -10,3 +12,8 @@ Student preview mode should almost always be used (click the “student view” 
 5. View the issue. 
 6. Exit by clicking the “leave student view” in the bottom right corner. 
 7. Close the window.
+
+## ***Quick Tip:*** Student Preview Mode
+Click the “student view” button at the top of the canvas page you’re working on to see it this way; in some cases you will need to “complete” the academic integrity agreement in order to view the page as a student
+
+
