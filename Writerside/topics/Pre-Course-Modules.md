@@ -8,3 +8,4 @@ Some courses have “pre-course” modules that students must complete before th
 - XR classes: May require students to acquire XR technology up to 3 weeks before the start of the course.
 
 > *Note:* See the Course Oddities spreadsheet for more information.
+
