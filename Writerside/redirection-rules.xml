@@ -12,4 +12,13 @@
         </description>
         <accepts>Empty-XML-Topic.html</accepts>
     </rule>
+    <rule id="4364a921">
+        <description>Created after removal of "Course Development Timeline and Workflow" from LXD Documentation
+        </description>
+        <accepts>Course-Development-Timeline-and-Workflow.html</accepts>
+    </rule>
+    <rule id="474efa0a">
+        <description>Created after removal of "Mike Test File" from LXD Documentation</description>
+        <accepts>Mike-Test-File.html</accepts>
+    </rule>
 </rules>

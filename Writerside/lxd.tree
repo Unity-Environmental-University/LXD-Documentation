@@ -6,12 +6,23 @@
                  name="LXD Documentation"
                  start-page="Home.md">
 
+    <toc-element topic="Discussions.md"/>
+    <toc-element topic="Assignments.md"/>
+    <toc-element topic="Course-Project-Overview.md"/>
+    <toc-element topic="Updating-a-Syllabus.md"/>
+    <toc-element topic="Editing-Course-Settings.md"/>
+    <toc-element topic="New-Pages-and-Editing-Pages.md"/>
+    <toc-element topic="Wiki-Page-MBAQ-203.md"/>
+    <toc-element topic="OCR.md"/>
     <toc-element topic="Course-Project-Philosophy.md"/>
-    <toc-element topic="Home.md">
-        <toc-element topic="file-structure.md"/>
-        <toc-element topic="How-To-Build.md"/>
-    </toc-element>
+    <toc-element topic="Course-Development-Timeline-and-Workflow.md"/>
+    <toc-element topic="New-Builds-Creating-and-Working-in-a-Google-Folder.md"/>
+    <toc-element topic="Process-Manual-Introduction.md"/>
+    <toc-element topic="Learning-Materials-Technical-Manual.md"/>
+    <toc-element topic="Refresh-and-Redesign-Process.md"/>
+    <toc-element topic="Calendars.md"/>
     <toc-element topic="Video-Recording-Process.md"/>
+<<<<<<< HEAD
     <toc-element topic="Viewing-as-Student-or-Instructor.md"/>
     <toc-element topic="Templates.md">
         <toc-element topic="Default-topic.md"/>
@@ -21,7 +32,29 @@
         <toc-element topic="Reference.md"/>
         <toc-element topic="Tutorial.md"/>
     </toc-element>
+=======
+    <toc-element topic="Course-Overview-Page.md"/>
+    <toc-element topic="Weekly-Overview-Pages.md"/>
+    <toc-element topic="Course-Introduction.md"/>
+>>>>>>> 18e0d5a84e138fa78dfd0eea96cfd05f9adec8b8
     <toc-element topic="Weekly-Overview-and-Objectives.md"/>
     <toc-element topic="Learning-Materials.md"/>
     <toc-element topic="Quizzes.md"/>
+    <toc-element topic="Role-Definition-and-Course-“Ownership”-for-ID-SME.md"/>
+    <toc-element topic="Envato-Photo-Resize-Program.md"/>
+    <toc-element topic="Course-Design.md"/>
+    <toc-element topic="Writerside.md">
+        <toc-element topic="file-structure.md"/>
+        <toc-element topic="How-To-Build.md"/>
+        <toc-element topic="Home.md">
+        </toc-element>
+        <toc-element topic="Templates.md">
+            <toc-element topic="Default-topic.md"/>
+            <toc-element topic="Starter.md"/>
+            <toc-element topic="How-to.md"/>
+            <toc-element topic="Overview.md"/>
+            <toc-element topic="Reference.md"/>
+            <toc-element topic="Tutorial.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>

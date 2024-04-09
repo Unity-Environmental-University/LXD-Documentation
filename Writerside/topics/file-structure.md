@@ -59,6 +59,12 @@ _OR_
 Understanding and effectively organizing the file structure in JetBrains Writerside will enhance your documentation workflow and ensure easy navigation and maintenance of your project.
 
 ## Additional Resources
-- [JetBrains Writerside Documentation](https://www.jetbrains.com/help/writerside/discover-writerside.html)
-- [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/)
+
+### Markdown & XML Guids & Cheatsheets
+- [Markdown & XML Guide by Jetbrains](https://www.jetbrains.com/help/writerside/markup-reference.html)
+  - [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/)
+  - [Another Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [XML Syntax Guide](https://www.w3schools.com/xml/xml_syntax.asp)
+
+### Application Documentation
+- [JetBrains Writerside Documentation](https://www.jetbrains.com/help/writerside/discover-writerside.html)
