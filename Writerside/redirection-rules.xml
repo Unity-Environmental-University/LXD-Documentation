@@ -21,4 +21,8 @@
         <description>Created after removal of "Mike Test File" from LXD Documentation</description>
         <accepts>Mike-Test-File.html</accepts>
     </rule>
+    <rule id="6564ac83">
+        <description>Created after removal of "Empty MD Topic" from LXD Documentation</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>
