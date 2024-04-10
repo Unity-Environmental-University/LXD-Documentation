@@ -22,21 +22,11 @@
     <toc-element topic="Refresh-and-Redesign-Process.md"/>
     <toc-element topic="Calendars.md"/>
     <toc-element topic="Video-Recording-Process.md"/>
-<<<<<<< HEAD
     <toc-element topic="Viewing-as-Student-or-Instructor.md"/>
     <toc-element topic="Video-Editing-Audio-Syncing.md"/>
     <toc-element topic="Other-Course-Pages.md"/>
     <toc-element topic="Pre-Course-Modules.md"/>
     <toc-element topic="Announcements.md"/>
-    <toc-element topic="Templates.md">
-        <toc-element topic="Default-topic.md"/>
-        <toc-element topic="Starter.md"/>
-        <toc-element topic="How-to.md"/>
-        <toc-element topic="Overview.md"/>
-        <toc-element topic="Reference.md"/>
-        <toc-element topic="Tutorial.md"/>
-    </toc-element>
-=======
     <toc-element topic="Course-Overview-Page.md"/>
     <toc-element topic="Weekly-Overview-Pages.md"/>
     <toc-element topic="Hallie-s-Additions.md">
@@ -45,7 +35,6 @@
         <toc-element topic="LXD-Chrome-Extension.md"/>
     </toc-element>
     <toc-element topic="Course-Introduction.md"/>
->>>>>>> 18e0d5a84e138fa78dfd0eea96cfd05f9adec8b8
     <toc-element topic="Weekly-Overview-and-Objectives.md"/>
     <toc-element topic="Learning-Materials.md"/>
     <toc-element topic="Quizzes.md"/>
