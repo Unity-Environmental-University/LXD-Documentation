@@ -7,7 +7,6 @@
                  start-page="Home.md">
 
     <toc-element topic="Hannah-s-Changes.md">
-        <toc-element topic="Hannah-Practice.topic"/>
     </toc-element>
     <toc-element topic="Kerrie-s-changes.md"/>
     <toc-element topic="Discussions.md"/>
