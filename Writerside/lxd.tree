@@ -36,6 +36,8 @@
     <toc-element topic="Other-Course-Pages.md"/>
     <toc-element topic="Pre-Course-Modules.md"/>
     <toc-element topic="Mike-s-Changes.md">
+        <toc-element topic="Quizzes-technical-manual.md"/>
+        <toc-element topic="How-to-Host-Instructor-Only-Files-in-Canvas.md"/>
         <toc-element topic="Setting-up-Learning-Outcome-Assessment-in-Canvas.md"/>
         <toc-element topic="Learning-Materials-Technical-Manual.md"/>
         <toc-element topic="Completing-a-New-Build-in-Canvas.md"/>
