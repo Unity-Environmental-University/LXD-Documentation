@@ -57,8 +57,8 @@ BETA
 4. Associate BP with sections 
 5. Install or update the [Chrome Extension](LXD-Chrome-Extension.md) 
 6. Wait for Sync with sections to finish if it hasn't already
-7. Go to settings page and click on the "Publishing..." button. (This button will be disabled if this is not a blueprint)
-<img alt="Picture of publishing button" src="publishing-dot-dot-dot.png" width="400"/>
+7. Go to settings page and click on the "Manage Sections" button. (This button will be disabled if this is not a blueprint)
+   <img src="manage-sections.png" width="400"/>
 8. You should see a dialog with all sections and buttons to Publish and Set Bios.
 <img alt="Picture of publish dialog with Publish and Set Bios buttons and a list of sections" src="publish-dialog.png"/>
 9. Clicking "Set Bios" will try to set bios for all courses. 
