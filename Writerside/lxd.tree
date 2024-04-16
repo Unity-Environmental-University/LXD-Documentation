@@ -47,6 +47,7 @@
     <toc-element topic="Course-Overview-Page.md"/>
     <toc-element topic="Weekly-Overview-Pages.md"/>
     <toc-element topic="Hallie-s-Additions.md">
+        <toc-element topic="Importing-a-Labster-Similation-into-Canvas-Assignments.md"/>
         <toc-element topic="Automated-Profile-Update-Process.md"/>
         <toc-element topic="Links.md"/>
         <toc-element topic="LXD-Chrome-Extension.md"/>
