@@ -1,6 +1,8 @@
 # Automated Profile Update Process
 
 Note, you can also now use the [Chrome Extension](#chrome-extension) to publish and set profiles in sections. Documentation below.
+Follow the Python Script or Chrome Extension instructions below to automate the profile update process. 
+After updating profiles, send instructors Section Ready notification email ([template here](https://docs.google.com/document/d/1EnO5nX2CvNVkpvtp2yMEeEchIK0mFt75HdjuzJhdbiw/edit#heading)). 
 
 ## Python Script
 ### Installation
@@ -71,3 +73,4 @@ for that person by copying an existing page, renaming it to that person's full u
 If not, you may need to create a new faculty page for them. 
 11. Check individual sections by clicking on the name of the section in sections list. You can also review section info with the "Details" view.
    <img src="profile-details-1.png"/>
+
