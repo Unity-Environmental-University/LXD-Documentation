@@ -21,4 +21,8 @@
         <description>Created after removal of "Mike Test File" from LXD Documentation</description>
         <accepts>Mike-Test-File.html</accepts>
     </rule>
+    <rule id="4d8a549f">
+        <description>Created after removal of "Hannah Practice" from LXD Documentation</description>
+        <accepts>Hannah-Practice.html</accepts>
+    </rule>
 </rules>
