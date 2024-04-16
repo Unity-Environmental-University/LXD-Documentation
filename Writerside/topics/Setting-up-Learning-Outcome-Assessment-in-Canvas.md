@@ -47,4 +47,4 @@
 * Uncheck “I’ll write free-form comments when assessing students”
 * Uncheck “Use this rubric for assignment grading”
 * Click “Hide score total for assessment results”
-* Click” update rubric”
+* Click "update rubric”
