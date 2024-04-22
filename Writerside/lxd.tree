@@ -7,6 +7,10 @@
                  start-page="Home.md">
 
     <toc-element topic="Hannah-s-Changes.md">
+        <toc-element topic="Publishing-Courses.md"/>
+        <toc-element topic="Communication-Channels.md"/>
+        <toc-element topic="Peer-Review.md"/>
+        <toc-element topic="Groups.md"/>
         <toc-element topic="Syncing-Changes-from-Blueprint-to-Live.md"/>
     </toc-element>
     <toc-element topic="Kerrie-s-changes.md"/>
@@ -48,6 +52,9 @@
     <toc-element topic="Course-Overview-Page.md"/>
     <toc-element topic="Weekly-Overview-Pages.md"/>
     <toc-element topic="Hallie-s-Additions.md">
+        <toc-element topic="Finding-an-Instructor-s-Photo-and-BIo.md"/>
+        <toc-element topic="Course-Edit-and-Feedback-from-an-Instructor.md"/>
+        <toc-element topic="Importing-a-Labster-Similation-into-Canvas-Assignments.md"/>
         <toc-element topic="Automated-Profile-Update-Process.md"/>
         <toc-element topic="Links.md"/>
         <toc-element topic="LXD-Chrome-Extension.md"/>
