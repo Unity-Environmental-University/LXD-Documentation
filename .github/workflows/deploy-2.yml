@@ -75,7 +75,7 @@ jobs:
         run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d deployment
 
       - name: Deploy to Remote Server via FTP
-        uses: SamKirkland/FTP-Deploy-Action@4.2.0
+        uses: SamKirkland/FTP-Deploy-Action@4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USER }}
