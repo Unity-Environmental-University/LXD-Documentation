@@ -33,6 +33,8 @@ To link to a course project section in a Google doc from another Google doc:
 
 ### Dealing with and resolving Comments:
 As work progresses on course project documents and course outlines, there are often many suggestions and comments made by SMEs, LXDs, and Deans. In order to best track changes and the resolution of suggestions/comments, please following these guidelines:
+
+- Instruct SMEs to turn on comment notifications within the Google document. In the document, go to Tools - Notification Settings - All Comments. This will allow the SME, who is generally not the owner of the doc, to receive notifications when the Dean and LXD make new comments and suggestions. 
 - Instruct SMES to leave Deans’ comments. Dean and Associate Dean comments are to be resolved ONLY by LXDs or Deans themselves.
 *The LXD is responsible for communicating this information to SMEs. 
 
