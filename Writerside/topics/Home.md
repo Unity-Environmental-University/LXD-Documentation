@@ -104,3 +104,15 @@ An Activity to introduce learning designers to JetBrains Writerside by creating 
 
 ## Expected Outcome
 Participants will learn to use a starter template for efficient documentation creation and previewing in a web format.
+
+
+## Additional Resources
+
+### Markdown & XML Guids & Cheatsheets
+- [Markdown & XML Guide by Jetbrains](https://www.jetbrains.com/help/writerside/markup-reference.html)
+    - [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/)
+    - [Another Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [XML Syntax Guide](https://www.w3schools.com/xml/xml_syntax.asp)
+
+### Application Documentation
+- [JetBrains Writerside Documentation](https://www.jetbrains.com/help/writerside/discover-writerside.html)
