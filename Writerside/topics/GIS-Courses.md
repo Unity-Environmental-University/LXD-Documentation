@@ -101,8 +101,7 @@ Thank you,
 
 (Insert Name Here)
 
-<br>
-
+<br></br>
 **Note:** For the below emails, attach the following as a PDF to emails: [ArcGIS Pro Installation Instructions](https://drive.google.com/file/d/1kBPAiFgRYygpM-iR44L4UWZlkZXDFf68/view?usp=sharing)
 
 #### GISC 201 and GISC 505
