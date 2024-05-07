@@ -11,7 +11,7 @@
 
     <chapter title="Snippets" id="Snippets">
     <p>The curio team provided us with a repository of "snippets", which are html chunks that can be copied and added to Canvas courses in order to create new elements on the pages. The snippets can be found in this course <a href="https://unity.instructure.com/courses/3802059/modules" target="_blank" rel="noopener">Snippets</a>. </p>
-            <p>To use a snippet, navigate to the page and click the "copy" button. This will copy the html text needed to insert the snippet. Then, navigate to the page where you want to add the snippet, enter the html editor, and paste the snippet. You can also select "File" then "embed" and paste the html code there to add it.  </p>
+        <p>To use a snippet, navigate to the page and click the "copy" button. This will copy the html text needed to insert the snippet. Then, navigate to the page where you want to add the snippet, enter the html editor, and paste the snippet. You can also select "File" then "embed" and paste the html code there to add it.  </p> </chapter>
 
 
 </topic>
