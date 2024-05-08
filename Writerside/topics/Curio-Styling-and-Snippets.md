@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Curio Styling and Snippets" id="Curio-Styling-and-Snippets">
+       title="Curio Styling and Snippets" id="Curio-Styling-and-Snippets" help-id="Curio-Styling-and-Snippets">
 
     <p>
         In the summer of 2023, Unity DE contracted with Curio, a design firm, to create a new layout and styling for our Canvas courses. We now refer to the previous design as "deprecated" and courses after this time may be in the "new style" or "Curio style". This new style is much more sophisticated, with banners, rubric buttons, and other styling elements. The changes were implemented in both the CSS and html. Generally, the LXD team will only implement changes using the html.
