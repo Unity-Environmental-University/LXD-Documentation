@@ -25,9 +25,11 @@ From here, Please read the **Discover Writerside** Section of the [Official Writ
 ## Additional Resources
 
 ### Markdown & XML Guids & Cheatsheets
+#### MarkDown
+- [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/)
 - [Markdown & XML Guide by Jetbrains](https://www.jetbrains.com/help/writerside/markup-reference.html)
-    - [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/)
-    - [Another Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Another Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+#### XML
 - [XML Syntax Guide](https://www.w3schools.com/xml/xml_syntax.asp)
 
 ### Application Documentation

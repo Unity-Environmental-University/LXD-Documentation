@@ -23,4 +23,4 @@ Digital/Visual Component - Developing multimedia components for Course Projects 
 Assignments - Students complete a few assignments per week, and these can often take the form of a project element, such as background research, a portion of the final written deliverable, or graphics or other media that will be showcased in the Course Project.
 
 Discussions - Student discussions offer the opportunity to exchange ideas, consider new perspectives, and receive feedback on different project elements. Students may be researching different animals, marine protected areas, environmental issues, etc., so a discussion prompt can give them the space to compare, contrast, critique, or expand on peers’ ideas.
-Start typing here...
+
