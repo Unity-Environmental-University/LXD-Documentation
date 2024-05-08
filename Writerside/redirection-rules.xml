@@ -25,4 +25,8 @@
         <description>Created after removal of "Hannah Practice" from LXD Documentation</description>
         <accepts>Hannah-Practice.html</accepts>
     </rule>
+    <rule id="3c21d2be">
+        <description>Created after removal of "About SME Documentation" from LXD Documentation</description>
+        <accepts>sme-documentation.html</accepts>
+    </rule>
 </rules>
