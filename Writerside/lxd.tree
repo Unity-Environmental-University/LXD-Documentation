@@ -7,13 +7,20 @@
                  start-page="Home.md">
 
     <toc-element topic="Table-of-Contents.md">
-        <toc-element topic="Role-Definition-and-Course-“Ownership”-for-ID-SME.md"/>
-        <toc-element topic="Fair-Use.md"/>
-        <toc-element topic="Refresh-Rebuild-as-a-Result-of-Audit.md"/>
-        <toc-element topic="Routine-LD-Meetings.md"/>
+        <toc-element topic="Video-Recording-Process.md"/>
+        <toc-element topic="Process-Manual-Introduction.md"/>
+        <toc-element topic="Calendars.md"/>
+        <toc-element topic="Updates.md"/>
+        <toc-element topic="Role-Definition-and-Course-“Ownership”-for-ID-SME.md">
+        </toc-element>
+        <toc-element topic="Intellectual-Property.md"/>
+        <toc-element topic="QA-Review.md"/>
         <toc-element topic="Communication-Channels.md"/>
         <toc-element topic="Course-Design.md"/>
         <toc-element topic="Audits.md"/>
+        <toc-element topic="Fair-Use.md"/>
+        <toc-element topic="Refresh-Rebuild-as-a-Result-of-Audit.md"/>
+        <toc-element topic="Routine-LD-Meetings.md"/>
         <toc-element topic="Elements-of-a-Course.md">
             <toc-element topic="Quizzes.md">
             </toc-element>
@@ -70,22 +77,16 @@
     </toc-element>
     <toc-element topic="Kerrie-s-changes.md"/>
     <toc-element topic="Dave-s-Folder.md">
-        <toc-element topic="QA-Review.md"/>
-        <toc-element topic="Updates.md"/>
         <toc-element topic="Updating-Due-Dates.md"/>
         <toc-element topic="Copying.md"/>
     </toc-element>
-    <toc-element topic="Intellectual-Property.md"/>
     <toc-element topic="Assignments.md"/>
     <toc-element topic="Course-Project-Overview.md"/>
     <toc-element topic="Updating-a-Syllabus.md"/>
     <toc-element topic="Course-Project-Philosophy.md"/>
     <toc-element topic="Course-Development-Timeline-and-Workflow.md"/>
     <toc-element topic="New-Builds-Creating-and-Working-in-a-Google-Folder.md"/>
-    <toc-element topic="Process-Manual-Introduction.md"/>
     <toc-element topic="Refresh-and-Redesign-Process.md"/>
-    <toc-element topic="Calendars.md"/>
-    <toc-element topic="Video-Recording-Process.md"/>
     <toc-element topic="Viewing-as-Student-or-Instructor.md"/>
     <toc-element topic="Turnitin.md"/>
     <toc-element topic="Other-Course-Pages.md"/>
