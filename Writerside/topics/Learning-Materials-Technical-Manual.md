@@ -8,3 +8,4 @@ As explained in Identifying Possible Instructional Materials and Textbooks, ther
 - Youtube Videos: should be appropriate in terms of duration, content, and purpose. Captioning should also be available.
 - Lecture Slides: If including the presentation from the Weekly Lecture video, upload it in PDF format.
 - Podcasts: need written transcriptions and should be of a reasonable duration.
+- COMM Hub: Considering linking to specific resources housed in the [COMM Hub](https://unity.edu/commhub/). Some options including working with source information, technical tutorials, and writing best practices. 
