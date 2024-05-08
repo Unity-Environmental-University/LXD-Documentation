@@ -9,6 +9,7 @@
     <toc-element topic="Table-of-Contents.md">
         <toc-element topic="Process-Manual-Introduction.md"/>
         <toc-element topic="Communication-Channels.md"/>
+        <toc-element topic="Equity-and-Inclusivity-Considerations-for-LXD-Designing-Courses.md"/>
         <toc-element topic="Calendars.md"/>
         <toc-element topic="Updates.md"/>
         <toc-element topic="Role-Definition-and-Course-“Ownership”-for-ID-SME.md">
@@ -23,6 +24,7 @@
         <toc-element topic="Refresh-Rebuild-as-a-Result-of-Audit.md"/>
         <toc-element topic="Routine-LD-Meetings.md"/>
         <toc-element topic="Course-Development-Timeline-and-Workflow.md"/>
+        <toc-element topic="Lab-Courses.md"/>
         <toc-element topic="Elements-of-a-Course.md">
             <toc-element topic="Quizzes.md">
             </toc-element>
@@ -43,7 +45,9 @@
     <toc-element topic="Technical-Manual.md">
         <toc-element topic="Completing-a-Build.md">
             <toc-element topic="New-Builds-Creating-and-Working-in-a-Google-Folder.md"/>
-            <toc-element topic="Setting-up-Learning-Outcome-Assessment-in-Canvas.md"/>
+            <toc-element topic="Setting-up-Learning-Outcome-Assessment-in-Canvas.md">
+                <toc-element topic="Running-an-Outcomes-Report.md"/>
+            </toc-element>
             <toc-element topic="Assignments.md">
                 <toc-element topic="Turnitin.md"/>
             </toc-element>
@@ -76,6 +80,7 @@
             <toc-element topic="Updating-a-Syllabus.md"/>
         </toc-element>
         <toc-element topic="Media.md">
+            <toc-element topic="How-to-Upload-Files-to-Canvas.md"/>
             <toc-element topic="OCR.md"/>
             <toc-element topic="Course-Images.md"/>
             <toc-element topic="Inserting-Media-in-Canvas.md"/>
@@ -84,8 +89,10 @@
             <toc-element topic="Video-Editing-Audio-Syncing.md"/>
             <toc-element topic="Envato-Photo-Resize-Program.md"/>
         </toc-element>
+        <toc-element topic="Lab-Kits.md"/>
+        <toc-element topic="Viewing-as-Student-or-Instructor.md"/>
     </toc-element>
-    <toc-element topic="Viewing-as-Student-or-Instructor.md"/>
+    <toc-element topic="Materials-for-CHEM-204-Information-and-Purchasing-Directions-for-Students.md"/>
     <toc-element topic="Greg-s-Changes.md">
     </toc-element>
     <toc-element topic="Hannah-s-Changes.md">
@@ -112,11 +119,5 @@
             <toc-element topic="Tutorial.md"/>
         </toc-element>
     </toc-element>
-    <toc-element topic="Lab-Courses.md"/>
-    <toc-element topic="Lab-Kits.md"/>
-    <toc-element topic="Equity-and-Inclusivity-Considerations-for-LXD-Designing-Courses.md"/>
-    <toc-element topic="Materials-for-CHEM-204-Information-and-Purchasing-Directions-for-Students.md"/>
-    <toc-element topic="Running-an-Outcomes-Report.md"/>
-    <toc-element topic="How-to-Upload-Files-to-Canvas.md"/>
 
 </instance-profile>
