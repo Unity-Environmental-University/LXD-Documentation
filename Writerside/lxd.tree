@@ -112,4 +112,11 @@
             <toc-element topic="Tutorial.md"/>
         </toc-element>
     </toc-element>
+    <toc-element topic="Lab-Courses.md"/>
+    <toc-element topic="Lab-Kits.md"/>
+    <toc-element topic="Equity-and-Inclusivity-Considerations-for-LXD-Designing-Courses.md"/>
+    <toc-element topic="Materials-for-CHEM-204-Information-and-Purchasing-Directions-for-Students.md"/>
+    <toc-element topic="Running-an-Outcomes-Report.md"/>
+    <toc-element topic="How-to-Upload-Files-to-Canvas.md"/>
+
 </instance-profile>
