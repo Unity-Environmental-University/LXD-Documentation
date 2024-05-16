@@ -1,0 +1,3 @@
+# Course Oddities
+
+Start typing here...

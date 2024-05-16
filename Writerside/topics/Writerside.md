@@ -1,4 +1,4 @@
-# Writerside
+# Drafting Space (Delete when the Great Documentation is Complete)
 
 Writerside is the documentation application we use to write and maintain documentation such as this.
 Writerside is a JetBrains IDE based on the IntelliJ platform. Use it to author, build, test, and publish technical documentation.

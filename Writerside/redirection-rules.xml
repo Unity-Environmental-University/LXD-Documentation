@@ -29,4 +29,36 @@
         <description>Created after removal of "About SME Documentation" from LXD Documentation</description>
         <accepts>sme-documentation.html</accepts>
     </rule>
+    <rule id="63701de4">
+        <description>Created after removal of "Greg's Changes" from LXD Documentation</description>
+        <accepts>Greg-s-Changes.html</accepts>
+    </rule>
+    <rule id="42a76037">
+        <description>Created after removal of "Hannah's Changes" from LXD Documentation</description>
+        <accepts>Hannah-s-Changes.html</accepts>
+    </rule>
+    <rule id="7e6e43db">
+        <description>Created after removal of "Kerrie's changes" from LXD Documentation</description>
+        <accepts>Kerrie-s-changes.html</accepts>
+    </rule>
+    <rule id="2fd9e5df">
+        <description>Created after removal of "Dave's Folder" from LXD Documentation</description>
+        <accepts>Dave-s-Folder.html</accepts>
+    </rule>
+    <rule id="43dcdc7b">
+        <description>Created after removal of "Danny's Sections" from LXD Documentation</description>
+        <accepts>Danny-s-Sections.html</accepts>
+    </rule>
+    <rule id="704d1933">
+        <description>Created after removal of "Mike's Changes" from LXD Documentation</description>
+        <accepts>Mike-s-Changes.html</accepts>
+    </rule>
+    <rule id="438907a9">
+        <description>Created after removal of "Hallie's Additions" from LXD Documentation</description>
+        <accepts>Hallie-s-Additions.html</accepts>
+    </rule>
+    <rule id="43f988bd">
+        <description>Created after removal of "Process Manual Introduction" from LXD Documentation</description>
+        <accepts>Process-Manual-Introduction.html</accepts>
+    </rule>
 </rules>
