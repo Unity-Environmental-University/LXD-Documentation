@@ -61,4 +61,8 @@
         <description>Created after removal of "Process Manual Introduction" from LXD Documentation</description>
         <accepts>Process-Manual-Introduction.html</accepts>
     </rule>
+    <rule id="7f11b202">
+        <description>Created after removal of "Microsoft Word" from LXD Documentation</description>
+        <accepts>Microsoft-Word.html</accepts>
+    </rule>
 </rules>

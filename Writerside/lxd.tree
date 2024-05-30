@@ -102,6 +102,20 @@
         <toc-element topic="Fair-Use.md"/>
     </toc-element>
     <toc-element topic="Writerside.md">
+        <toc-element topic="Commonly-Used-Tools-and-Technologies.md">
+            <toc-element topic="Handshake.md"/>
+            <toc-element topic="TinkerCad.md"/>
+            <toc-element topic="Molecular-Drawing-Software.md"/>
+            <toc-element topic="Microsoft-Word.md"/>
+            <toc-element topic="Google-Drive.md"/>
+            <toc-element topic="Draw-io-or-Diagrams-net.md"/>
+            <toc-element topic="Submitting-Multiple-Files-with-Canvas-Studio.md"/>
+            <toc-element topic="Canva.md"/>
+            <toc-element topic="ArcGIS-StoryMaps.md"/>
+            <toc-element topic="Adobe-Express.md"/>
+        </toc-element>
+        <toc-element topic="Accredible-Quick-Start-Guide.md"/>
+        <toc-element topic="What-to-Expect-When-Building-a-New-Course.md"/>
         <toc-element topic="file-structure.md"/>
         <toc-element topic="How-To-Build.md"/>
         <toc-element topic="Home.md"/>
