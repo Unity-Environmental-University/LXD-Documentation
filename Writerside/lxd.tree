@@ -4,7 +4,7 @@
 
 <instance-profile id="lxd"
                  name="LXD Documentation"
-                 start-page="Home.md">
+                 start-page="Table-of-Contents.md">
 
     <toc-element topic="Table-of-Contents.md">
         <toc-element topic="Role-Scope-and-Authority.md">
