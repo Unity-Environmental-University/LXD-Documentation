@@ -8,9 +8,8 @@
 
     <toc-element topic="Table-of-Contents.md">
         <toc-element topic="Role-Scope-and-Authority.md">
-            <toc-element topic="Role-Definition-and-Course-“Ownership”-for-ID-SME.md"/>
-            <toc-element topic="Intellectual-Property.md"/>
             <toc-element topic="Communication-Channels.md"/>
+            <toc-element topic="Intellectual-Property.md"/>
             <toc-element topic="Routine-LD-Meetings.md"/>
         </toc-element>
         <toc-element topic="Elements-of-a-Course.md">

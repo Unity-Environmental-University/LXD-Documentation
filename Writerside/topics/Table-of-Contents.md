@@ -1,12 +1,17 @@
-# Process Manual 
+# Getting Started
 
-## Educational Institution
+## Educational Institution and Department
 
-Unity Environmental University Distance Education
+Unity Environmental University Distance Education - Learning Experience Design
 
 ## Introduction
-This Process Manual is a guide for new and tenured LXDs at Unity Environmental University. It will be updated should processes, philosophy, and standards change.
+The LXD Documentation site is a collection of processes and policies for course development. The site is divided into two parts: 
+- This Getting Started section, which goes more deeply into why we do things the way we do them, how different roles may be broken up, and foundational philosophies. 
+- The [](Technical-Manual.md) section, which goes into more granular depth on specific standards, tools, processes, resources, peculiarities, etc. to do with course design and maintenance.
+
 
 ## Purpose
-The purpose of the Unity Learning Experience Design (LXD) Process Manual is to provide new designers the philosophical and pedagogical background of the design process. This guide offers the 30,000 foot perspective on design: rationale, major milestones, and foundational components. This document will work in tandem with the Technical Manual, which offers stepwise, granular instructions for course design processes. While that document will be frequently updated to reflect the changing and evolving technology we employ, this document offers a stable, more consistent jumping off point for the philosophy of our design. While our tools may change, our vision will not. The audience for this document is more external-facing to Deans, SMEs, LXDs, LTSS, and potentially other constituents, whereas the Technical Manual serves the LXD team.
+The purpose of the LXD Documentation site is to provide Learning Designers (LDs), Subject Matter Experts (SMEs) and other IAPs a comprehensive picture of 
+how we do things, why we do them that way, and what tools we're using to get them done. The Assistant Director of LXD is the Editor in Chief of LXD Documentation, but
+LDs may be appointed at any time to take specific roles in revising and/or adding to this record. 
 

@@ -65,4 +65,10 @@
         <description>Created after removal of "Microsoft Word" from LXD Documentation</description>
         <accepts>Microsoft-Word.html</accepts>
     </rule>
+    <rule id="16f68ccd">
+        <description>Created after removal of "Role Definition and Course “Ownership” for ID/SME" from LXD
+            Documentation
+        </description>
+        <accepts>Role-Definition-and-Course-“Ownership”-for-ID-SME.html</accepts>
+    </rule>
 </rules>

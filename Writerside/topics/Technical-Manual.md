@@ -1,3 +1,3 @@
-# Technical Manual
+# Course Development Standards, Resources, and Procedures
 
 Start typing here...
