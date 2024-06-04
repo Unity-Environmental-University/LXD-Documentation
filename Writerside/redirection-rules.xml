@@ -71,4 +71,16 @@
         </description>
         <accepts>Role-Definition-and-Course-“Ownership”-for-ID-SME.html</accepts>
     </rule>
+    <rule id="76296183">
+        <description>Created after removal of "Weekly Overview and Objectives" from LXD Documentation</description>
+        <accepts>Weekly-Overview-and-Objectives.html</accepts>
+    </rule>
+    <rule id="34568a1c">
+        <description>Created after removal of "Course Structure" from LXD Documentation</description>
+        <accepts>Course-Structure.html</accepts>
+    </rule>
+    <rule id="5f8486eb">
+        <description>Created after removal of "Course Project Overview" from LXD Documentation</description>
+        <accepts>Course-Project-Overview.html</accepts>
+    </rule>
 </rules>

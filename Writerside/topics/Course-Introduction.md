@@ -1,5 +1,8 @@
-# Course Introduction
+# Course Homepage
 
+The Course Homepage is the landing 
+
+## Course Introduction
 The Course Introduction, found on the Homepage of the course, offers the students the first entry point into the course after the Course Description. While some of the overview of content might be the same, this is a space where the narrative of the course can come alive or for the SME to offer some of their “voice” to the course.
 
 Here are some questions for the SME to consider when drafting the Course Introduction:

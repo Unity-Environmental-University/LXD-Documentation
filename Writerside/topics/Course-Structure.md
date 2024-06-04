@@ -1,3 +1,0 @@
-# Course Structure
-
-Start typing here...
