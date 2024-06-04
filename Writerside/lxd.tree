@@ -4,7 +4,7 @@
 
 <instance-profile id="lxd"
                  name="LXD Documentation"
-                 start-page="Table-of-Contents.md">
+                 start-page="LXD-Team-Goals.md">
 
     <toc-element topic="LXD-Team-Goals.md"/>
     <toc-element topic="Table-of-Contents.md">
