@@ -87,4 +87,66 @@
         <description>Created after removal of "Updates" from LXD Documentation</description>
         <accepts>Updates.html</accepts>
     </rule>
+    <rule id="2816d63f">
+        <description>Created after removal of "Running an Outcomes Report" from LXD Documentation</description>
+        <accepts>Running-an-Outcomes-Report.html</accepts>
+    </rule>
+    <rule id="1e275a7c">
+        <description>Created after removal of "Setting up Learning Outcome Assessment in Canvas" from LXD
+            Documentation
+        </description>
+        <accepts>Setting-up-Learning-Outcome-Assessment-in-Canvas.html</accepts>
+    </rule>
+    <rule id="5a52b9c1">
+        <description>Created after removal of "Documentation Playground Activity" from LXD Documentation</description>
+        <accepts>Home.html</accepts>
+    </rule>
+    <rule id="657207a4">
+        <description>Created after removal of "Familiarizing with the Writerside File Structure" from LXD
+            Documentation
+        </description>
+        <accepts>file-structure.html</accepts>
+    </rule>
+    <rule id="27ee6e1e">
+        <description>Created after removal of "How To Build" from LXD Documentation</description>
+        <accepts>How-To-Build.html</accepts>
+    </rule>
+    <rule id="6e117841">
+        <description>Created after removal of "Other Course Pages" from LXD Documentation</description>
+        <accepts>Other-Course-Pages.html</accepts>
+    </rule>
+    <rule id="1b7f4d41">
+        <description>Created after removal of "Templates" from LXD Documentation</description>
+        <accepts>Templates.html</accepts>
+    </rule>
+    <rule id="7df6db66">
+        <description>Created after removal of "This is the first topic" from LXD Documentation</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="179d05e7">
+        <description>Created after removal of "Starter" from LXD Documentation</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="51ebac17">
+        <description>Created after removal of "How to" from LXD Documentation</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="1420c7f7">
+        <description>Created after removal of "Overview" from LXD Documentation</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="47f35db">
+        <description>Created after removal of "Reference" from LXD Documentation</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="4a35bd24">
+        <description>Created after removal of "Tutorial" from LXD Documentation</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="4da4433c">
+        <description>Created after removal of "Drafting Space (Delete when the Great Documentation is Complete)" from
+            LXD Documentation
+        </description>
+        <accepts>Writerside.html</accepts>
+    </rule>
 </rules>

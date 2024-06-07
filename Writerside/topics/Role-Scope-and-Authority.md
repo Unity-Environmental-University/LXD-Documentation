@@ -69,3 +69,6 @@ knowledge as it relates to the field and to students. The SME’s work includes:
   or products
 - Ensuring quality assurance of course content and delivery
 - Working in concert with the LXD team members to execute the creation of the course components
+
+## Table of Contents
+<toc></toc>

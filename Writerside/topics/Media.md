@@ -1,3 +1,4 @@
 # Media
 
-Start typing here...
+## Table of Contents
+<toc></toc>

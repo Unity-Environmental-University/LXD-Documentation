@@ -37,4 +37,7 @@ For further reading, consult these resources:
 [Understanding by Design Framework](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/)   
 [Universal Design](https://www.washington.edu/doit/what-universal-design-0)   
 [The UDL Guidelines](https://udlguidelines.cast.org/)   
-[Webb’s Depth of Knowledge](https://www.aps.edu/sapr/documents/resources/Webbs_DOK_Guide.pdf)   
+[Webb’s Depth of Knowledge](https://www.aps.edu/sapr/documents/resources/Webbs_DOK_Guide.pdf)
+
+## Table of Contents
+<toc></toc>

@@ -4,3 +4,5 @@ Certain 3-credit science courses will be accompanied by a 1-credit laboratory co
 
 These lab courses often include simulations from the website [Labster](https://www.labster.com/), which provides virtual laboratory simulations for students accompanied by simple mini-quizzes. Typically, labster simulations function more along the lines of learning materials than as the formative assessments for the week. The lab simulations are curated by a SME and are easily integrated into Canvas. LDs should send SMEs the above link to the library of Labster simulations so they can explore the options available. If they'd like to explore them more deeply, the LD can create a mock course and add the simulations to it so the SME can complete the Labster simulations in full. Some lab courses will have a term-long course project, though not in the same scope as a 3-credit Course Project. Each week does **not** need to have a discussion because the 1-credit format restricts the amount of assignments/discussions per week and this would be overly restrictive.
 
+## Table of Contents
+<toc></toc>

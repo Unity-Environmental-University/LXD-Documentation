@@ -18,3 +18,6 @@
 - Assignment categories in Canvas appear on the Syllabus page.
 
 Note: The percent breakdown of grading categories, seen in the Syllabus, is filled via the Assignments page (in the left sidebar menu in Canvas) and is not editable on the syllabus page even though it appears there.
+
+## Table of Contents
+<toc></toc>

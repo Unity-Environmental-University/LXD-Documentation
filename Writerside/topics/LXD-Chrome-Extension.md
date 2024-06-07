@@ -1,4 +1,4 @@
-# LXD Chrome Extension
+# Chrome Extension
 
 Note: Up-to-date documentation can be found at [the GitHub repository link](https://github.com/Unity-Environmental-University/lxd-tools-build).
 
@@ -39,3 +39,7 @@ To update the Chrome extension, you just need to update the GitHub repository an
 <img src="chrome-extensions-link.png" width="400"/>
 2. Click "Update Extensions"
 <img src="update-extensions.png" width="400"/>
+
+
+## Table of Contents
+<toc></toc>

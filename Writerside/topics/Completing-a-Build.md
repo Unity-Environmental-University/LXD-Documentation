@@ -1,3 +1,4 @@
 # Completing a Build
 
-Start typing here...
+## Table of Contents
+<toc></toc>

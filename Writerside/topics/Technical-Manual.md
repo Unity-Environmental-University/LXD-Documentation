@@ -1,3 +1,4 @@
 # Course Development Standards, Resources, and Procedures
 
-Start typing here...
+## Table of Contents
+<toc></toc>
