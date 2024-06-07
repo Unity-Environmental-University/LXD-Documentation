@@ -1,17 +1,10 @@
 # LXD Team Goals
 
-Insert goals...
+Unity Distance Education provides quality, experiential STEM education in an 
+asynchronous online format to historically underserved populations. We do this by:
+- Keeping tuition prices down 
+- Being transparent about all costs, and trying to keep materials for courses free or affordable
+- Developing courses within strict formatting / UI parameters so that students don't have to navigate wildly different looking/functioning courses to **do** compellingly differentiated, experiential assignments
 
-## What is product/service/concept
 
-Provide some background and context, explain choices and alternatives.
 
-## Glossary
-
-A definition list or a glossary:
-
-First Term
-: This is the definition of the first term.
-
-Second Term
-: This is the definition of the second term.

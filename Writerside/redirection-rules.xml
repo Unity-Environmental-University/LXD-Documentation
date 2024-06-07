@@ -83,4 +83,8 @@
         <description>Created after removal of "Course Project Overview" from LXD Documentation</description>
         <accepts>Course-Project-Overview.html</accepts>
     </rule>
+    <rule id="705856d2">
+        <description>Created after removal of "Updates" from LXD Documentation</description>
+        <accepts>Updates.html</accepts>
+    </rule>
 </rules>
