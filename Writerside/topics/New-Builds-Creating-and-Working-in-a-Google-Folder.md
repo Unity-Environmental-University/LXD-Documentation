@@ -1,4 +1,4 @@
-# New Builds - Creating and Working in a Google Folder
+# Creating and Working in a Google Folder
 
 >This page focuses on creating and managing a Google folder throughout the New Build process. For more information on the New Build process and timeline, see [this page.](Course-Development-Timeline-and-Workflow.md) 
 > {style=note}
