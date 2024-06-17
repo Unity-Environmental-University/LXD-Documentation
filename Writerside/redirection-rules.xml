@@ -149,4 +149,19 @@
         </description>
         <accepts>Writerside.html</accepts>
     </rule>
+    <rule id="30236230">
+        <description>Created after removal of "Familiarizing with the Writerside File Structure" from SME
+            Documentation
+        </description>
+        <accepts>file-structure.html</accepts>
+    </rule>
+    <rule id="632a5fdc">
+        <description>Created after removal of "About SME Documentation" from SME Documentation</description>
+        <accepts>sme-documentation.html</accepts>
+    </rule>
+    <rule id="6069c477">
+        <description>Created after removal of "SME What to Expect When Building a New Course" from LXD Documentation
+        </description>
+        <accepts>What-to-Expect-When-Building-a-New-Course.html</accepts>
+    </rule>
 </rules>
