@@ -45,23 +45,6 @@ In order to give students rigorous, engaging laboratory experiences, courses wil
 
 ### Accounts and ID Access
 Cloud Sign-in Page: [MyHOL.HOLScience.com](http://myhol.holscience.com/)
-- Each ID should use their own Instructor Admin Account that is set up by Science Interactive. Please reach out to SI if you do not have an account.
-- LXD Account (for all IDs) (This was made when we first implemented SI and it can be used if there is an issue with your current account.
-- Your username: Chemistry@unity.edu
-- Password: hol54321 (case sensitive)   
-- To access the course, click on SKU LP-4814-CK-01. This will give you access to all the internal course data, to view the actual Chemistry course click “Preview” in the top right corner.
-- You can toggle between instructor view (dashboard) and the student view by clicking in the upper right corner
-- **Instructor Account:** Each instructor will have their own account that is set up by Science Interactive.
-  - Instructors are not automatically notified by SI when their account is set up. Please notify the instructors teaching the course, using the template below (if SI Rep has not done so already) and refer them to the Instructor Guide (within Canvas Course) and the [SI New Instructor Tutorial](https://welcome.scienceinteractive.com/content/index.html#/lessons/pqS35C2dNipIss7DyWhFfRoNJiH8DR5O).
->
-> Congratulations on your new course with Science Interactive for this upcoming term.  Your course has been created in the SI Cloud platform and your login instructions are below. We recommend that you watch the short video tutorials on the front page of your SI Cloud dashboard which will assist you with navigating the SI Cloud platform. 
-> To access your account in SI Cloud, please visit:
-> https://myhol.holscience.com/auth/login
->Your login credentials are:
->Username:
->Password: hol54321 (case sensitive)
->Please change your password upon logging in to your account.
->Our SKU number is the equivalent to an ISBN. The unique SKU for your course is LP-4814-CK-01.
 
 {style="note"}
   - Optional SI Training: The SI Rep, Joe Schubert has offered to do a 20-30 min training session with instructors if they want to. Most of the information in the training is already covered in the SI New Instructor Tutorial. Please reach out to him if an instructor expresses interest.
