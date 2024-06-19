@@ -1,4 +1,4 @@
-# CHEM 204 Lab Kits (DEPRECATING)
+# CHEM 204 Lab Kits - DEPRECATING
 
 In order to give students rigorous, engaging laboratory experiences, courses will require Lab Kits as part of the learning materials. This enables at home experiments to move beyond "kitchen chemistry" experiments.
 
