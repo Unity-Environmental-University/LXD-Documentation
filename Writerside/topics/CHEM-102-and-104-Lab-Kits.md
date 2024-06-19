@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Carolina Labs customized lab kits provide students the opportunity to participate in authentic science labs from their homes in a safe manner. Carolina has a library of experiments and accompanying laboratory materials that can be curated to create custom laboratory kits specific for a Unity DE laboratory course. Students are required to purchase a kit that includes laboratory materials (ex: beakers, burners, chemicals, gloves,etc.) for them to conduct experiments at home.
+Carolina Labs customized lab kits provide students the opportunity to participate in authentic science labs from their homes in a safe manner. Carolina has a library of experiments and accompanying laboratory materials that can be curated to create custom laboratory kits specific for a Unity DE laboratory course. Students are required to order a kit that includes laboratory materials (ex: beakers, burners, chemicals, gloves,etc.) for them to conduct experiments at home.
 
 ## Ordering Kits
 
@@ -16,14 +16,15 @@ In the future: Students who are taking both CHEM 102 and 104 will be able to ord
 
 If you are building a course that utilizes a Carolina Lab Kit, put the following statement (or similar) in the materials section of the syllabus. Make sure the link is up to date. 
 
-*This lab course uses a physical lab kit. While Unity pays for the kit, you need to order it to be shipped to your residence. You should order the kit before the first day of class, if possible, as shipping can take a week or more. Follow [this link](https://carolina.formstack.com/forms/unity_environmental_university) to order your kit.*
+*This lab course uses a physical lab kit. While Unity pays for the kit, **you need to order it to be shipped to your residence as soon as possible.** You should order the kit before the first day of class, if possible, as shipping can take a week or more. Follow [this link](https://carolina.formstack.com/forms/unity_environmental_university) to order your kit.*
 
 ## Safety
 
 Safety information is included in the instructions for each individual lab; this includes safe set-up and disposal of leftover materials.
 
 
-There is also general lab safety information and a lab safety contract that applies to all Carolina labs. Students must read this information and sign the contract before completing any Carolina labs. Consider setting this up as an assignment in Week 1 that unlocks access to the rest of the course. 
+There is also general lab safety information and a lab safety contract that applies to all Carolina labs. Students must read this information and sign the contract before completing any Carolina labs. Consider setting this up as an assignment in Week 1 that unlocks access to the rest of the course. See CHEM 102 and 104 for setup examples.
+
 
 ## Lab Instructions and Lab Report Templates
 
