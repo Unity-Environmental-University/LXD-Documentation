@@ -72,6 +72,7 @@
         </toc-element>
         <toc-element topic="Refresh-and-Redesign-Process.md"/>
         <toc-element topic="Update-Process.md">
+            <toc-element topic="Form-Email-Template.md"/>
             <toc-element topic="LXD-Chrome-Extension.md">
                 <toc-element topic="Finding-an-Instructor-s-Photo-and-BIo.md"/>
                 <toc-element topic="Automated-Profile-Update-Process.md"/>
