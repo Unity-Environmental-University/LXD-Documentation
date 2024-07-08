@@ -21,7 +21,7 @@ to each course.
        3. “Email” - you will need to add in “@unity.edu” from the “SIS Login ID” column to create the Email column
        4. “Username” - put their Unity username followed by “_UnityOnline”  (for instance gsiekman_UnityOnline)
        5. “Role” - type in ‘Publisher’
-       6. “User Type” - type in ‘GIS Professional Advanced’
+       6. “User Type” - type in ‘Professional Plus’
    2. Save this as a .CSV file
 4. Go to [ArcGIS Online](https://unityonline.maps.arcgis.com/home) - Organization - Members and click on ‘Invite Members’
 ![ArcGIS1.png](ArcGIS1.png)
