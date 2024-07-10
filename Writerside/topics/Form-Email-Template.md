@@ -1,5 +1,5 @@
 # Publish Form Email
-<p>My name is {{userName}} and I’m the Learning Experience Designer who is preparing your course to run
+<p>My name is {{userName}} and I’m the {{userTitle}} who is preparing your course to run
             this term.
             Your course section(s) of {{courseCode}} has/have been created for you to teach
             for {{termName}}. Your students will
@@ -7,7 +7,7 @@
             Actual course assignments will become available to the students
             on <strong>Monday, {{courseStart}}</strong>,
             the official start of the term.</p>
-        <list>
+        <ul>
             <li>Please do not make any corrections or changes to your live course yourself, no matter how small. In
                 order to maintain consistency between the live section and the course template,
                 submit any issues via the <a href='https://docs.google.com/forms/d/e/1FAIpQLSeybl9b-xk-pL1bsWX7x9esQYoHHyi3rPPOq75mK4Q4n4b5tQ/viewform'>Course Edit and Feedback Form</a> so a Learning Technology Support Specialist can
@@ -29,7 +29,7 @@
             <li>For other questions or issues, please contact my supervisor, Chris Malmberg (<a
                 href='mailto:cmalmberg@unity.edu'>cmalmberg@unity.edu</a>).
             </li>
-        </list>
+        </ul>
         <p>We appreciate your help in making sure these courses are good to go. Have a wonderful term.</p>
         <p>Cheers,</p>
         <p>{{userName}}</p>
