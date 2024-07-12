@@ -62,6 +62,7 @@ Courses occasionally undergo the auditing process, which is when an LXD goes thr
    - If students use AI to complete an assignment/discussion, where is their learning?
 
    - How could/should students use AI in the course assignments and discussions
+   - Refer to AI Documentation (Chris authoring)
 
 ## Table of Contents
 <toc></toc>
