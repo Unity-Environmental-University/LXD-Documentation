@@ -20,3 +20,4 @@ a way to maintain their grade, but lower the percentage
 signals a lower stakes opportunity to learn. Some exceptions 
 apply for quiz length and grading percentage, such as math 
 courses or graduate versus undergraduate courses.  
+

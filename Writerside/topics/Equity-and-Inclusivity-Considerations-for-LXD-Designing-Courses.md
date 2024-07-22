@@ -1,6 +1,6 @@
 # Equity and Inclusivity Considerations for LXD Designing Courses
 
-When designing courses, we undergo an “Equity check” process to review expectations, assumptions, and further opportunities. This pause and check moment/process can spur greater creativity and/or clarify instructions and outcomes. The following questions can help reframe course elements in order to ensure equitable experiences.
+When designing courses, we undergo an “Equity Check” process to review expectations, assumptions, and further opportunities. This pause and check moment/process can spur greater creativity and/or clarify instructions and outcomes. The following questions can help reframe course elements in order to ensure equitable experiences.
 
 ## What background and experiences am I / are we bringing to the course?
 
