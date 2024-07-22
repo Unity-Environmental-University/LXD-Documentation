@@ -125,7 +125,7 @@ Using such software as Canva or Adobe Express, create a poster as a means to pre
 
 Ask students to make a presentation using PowerPoint with voiceover, screencasting, or by making an instructional video.  Then, after they share it online, ask the rest of the class to pose a question about the presentation or respond with constructive criticism.  This can be done using Discussions in Canvas.
 
-### Pro/Con
+### Pros/Cons
 
 Students create a pro/con presentation or diagram.
 
