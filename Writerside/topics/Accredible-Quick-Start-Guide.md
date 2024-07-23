@@ -6,13 +6,13 @@ Their goal is to explain a concept, not to teach or give instructions.
 ## Common Terminology
 
 ### Groups
-A group contains all the information related to a credential. This information includes the name of the achievement, the appearance of the group(a badge or certificate), the email that is sent when students achieve the credential, and its visibility.1
+A group contains all the information related to a credential. This information includes the name of the achievement, the appearance of the group(a badge or certificate), the email that is sent when students achieve the credential, and its visibility.
 ### Designs
 Designs are the visual representation of a credential. It usually takes the form of a badge or certificate. Accredible has a built-in design tool for creating badges and certificates.
 ### Credentials
-A credential is the achievement that students receive upon completion of the requirements.2
+A credential is the achievement that students receive upon completion of the requirements.
 ### Attributes
-Attributes are a placeholder value. They can be used in designs, or in emails as placeholders. An example of this would be [recipient.name]. If John Doe were to receive a credential, then [recipient.name] would be replaced with John Doe in the email or on the credential.3
+Attributes are a placeholder value. They can be used in designs, or in emails as placeholders. An example of this would be [recipient.name]. If John Doe were to receive a credential, then [recipient.name] would be replaced with John Doe in the email or on the credential.
 
 
 ## Creating a Group
