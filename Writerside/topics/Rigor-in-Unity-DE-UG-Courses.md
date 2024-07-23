@@ -32,6 +32,7 @@ The following questions are useful for interrogating the appropriateness of cert
 
 The Course Project serves as the major assessment of the course and often covers the majority (or all) of the course outcomes. Course Projects contain scaffolded formative assessments that allow for students to practice applying concepts, receive feedback, and make any necessary changes in order to produce a comprehensive summative assessment that demonstrates their attainment of the course outcomes.
 In most Course Projects, students produce a discipline-relevant artifact that often involves research, synthesis of sources, and a written product and/or delivery of a presentation. 
+
 Questions to consider when crafting a rigorous course project:
 - What do practitioners in this field typically produce? 
 - How is knowledge acquired and shown? 
@@ -41,7 +42,8 @@ Questions to consider when crafting a rigorous course project:
 Discussions create spaces where students can explore open-ended elements of their discipline or field of study. Rigorous discussions prompt students to consider different sources or presentation of information; disagreements, varying viewpoints, lack of consensus, or controversies; case studies; scenarios. 
 A discussion that lacks rigor relies on close-ended prompts, defining or restating concepts and terms, or simple comprehension checks of provided learning materials. These types of discussions also cause students to produce essentially the same initial post, so it is difficult for them to respond to each other and expand on / continue the discussion. 
 Discussions cannot be the only assessment in a week because students must engage in some type of assessed activity where feedback is provided solely by the instructor (as opposed to receiving only peer feedback, as in a discussion). 
-Questions to consider when crafting a rigorous discussion 
+
+Questions to consider when crafting a rigorous discussion: 
 - What are current issues/disagreements/topics in the field today? 
 - What topic or skill can be strengthened by a variety of perspectives? 
 - What feedback can peers reasonably provide to each other?
@@ -52,6 +54,7 @@ Assignments can take a wide variety of forms to assess student learning. They pr
   - By default, courses should supply the quality resources the students are expected to use for their assignments (see Learning Materials, above)
     - Resource curation may be more prevalent in lower level courses 
   - If courses are requiring students to do research on their own, the course should include some content/support/resources on how to evaluate the quality of sources, specifically in that subject 
+
 Questions to consider when crafting a rigorous assignment 
 - What are students doing to demonstrate knowledge or skill acquisition? 
 - What topic or skill necessitates directed feedback from a subject matter expert across a knowledge/skill differential? (ie from instructor to student)
