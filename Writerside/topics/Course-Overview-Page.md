@@ -7,6 +7,7 @@ The Course Overview Page has a number of components:
    - Course Description
    - Course Outcomes
    - Syllabus (links to course page)
+   - Textbook and Required Materials
    - Course Project Overview (links to course page)
    - Graded Activities
       
