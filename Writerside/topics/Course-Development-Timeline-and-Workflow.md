@@ -31,11 +31,11 @@
 
 The “homework” after the kick-off meeting is for the SME to make any edits to the Course Description and Outcomes, add detail and refine the Course Project idea, and decide if the course will have a textbook. The textbook decision is made early on to determine the availability of the resource (some version of the resource must be available for less than $100, either print or digital). The Associate Dean of Retention and Completion has access to a special database of digital editions that are less common or have limited availability. However, if a required textbook does not have a digital version widely available or from this repository, it cannot be used. Where possible, we recommend using Open Educational Resources (OERs) for textbooks because they are free and easily available online, such as through OpenStax. SMEs should follow the 10% rule. If 10% or less of a textbook will be used, then students do not need to purchase the book and the SME can provide PDFs of the chapters/pages used. Anything over 10% will require purchase. While the textbook can often also give structure to the course, be wary of the SME overly relying on the textbook for the course.  
 
-If the selected textbook is not an OER, you can check with Sandra at the Unity library to see if she can source the material. Here's more information:
+If the selected textbook is not an OER, you can check with the librarian at the Unity library to see if she can source the material. Here's more information:
 
 - Send her the full citation **including ISBN**
 - Always ask for unlimited concurrent usage for a textbook
-  - If very expensive or not an option, discuss with Chris
+  - If very expensive or not an option, discuss with the Director of Educational Product Development
 - Enrollment in class is not necessary
 - When searching for books uncheck "Unity has it" and ask Sandra if we can get it 
 - If expensive for library but also expensive for students, elevate to Chris to discuss with Jen about
