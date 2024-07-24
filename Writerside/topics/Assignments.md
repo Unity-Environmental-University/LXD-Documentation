@@ -6,7 +6,7 @@
 - Include a banner image. 
   - Check the shared Drive Folder “Course Photos by Subject” for images
   - Envato and Unsplash are other sources for banner images.
-  - Resize image if large
+  - Resize image to a width of 1000 pixels
 - The default settings are to “Allow File Uploads” and “Submission Attempts: Unlimited”. You may check a different submission type (besides file upload) depending on the nature of the assignment. However, a box must be checked or no submission is permitted.
   - Other submission options include: Text Entry, Website URL, media recordings, student annotation
   - Text entry is a basic text box for typing a written submission, but also allows students to upload files. Sometimes, students may wish to include a note to their instructor along with their file submission.

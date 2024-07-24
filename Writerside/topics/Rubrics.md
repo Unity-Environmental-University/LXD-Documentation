@@ -21,5 +21,4 @@ Grad rubrics should distribute points for citation among all relevant criteria. 
 instead add citation requirements to all criteria where citation may be important. 
 
 ## Examples
-
-To-be-drafted
+![Screenshot 2024-07-23 124136.png](rubric example)
