@@ -6,4 +6,4 @@ The Learning Materials page is a repository of the week’s content, videos, art
 
 Materials such as book chapters, articles, and videos may be arranged a number of ways in the accordions at the bottom of the page. Sometimes they are organized thematically and sometimes they are organized by resource type. However, they are organized, it's helpful to indicate clearly whether each resource is required or supplemental. 
 
-![Screenshot 2024-07-22 142834.png](learning materials)
+![Screenshot 2024-07-22 142834.png](learning materials.png)
