@@ -63,5 +63,7 @@ Courses occasionally undergo the auditing process, which is when an LXD goes thr
 
    - How could/should students use AI in the course assignments and discussions
 
+<note>Refer to AI Documentation (Chris authoring)</note>
+
 ## Table of Contents
 <toc></toc>
