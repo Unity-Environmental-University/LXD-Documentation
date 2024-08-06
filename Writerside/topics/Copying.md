@@ -53,5 +53,6 @@ Once the DEV copy of a course has been prepared it is ready to be copied to crea
 
 ### For brand new courses
 ![creating a blueprint 1.png](creating_a_blueprint_1.png)
+
 ![creating a blueprint 2.png](creating_a_blueprint_2.png)
 <p>Creating a BP from scratch is pretty simple. You can choose to "Copy" the DEV, per steps 3 through 5 above, or create a section from scratch (see screenshots above) and then import the content from the DEV into that.</p>
