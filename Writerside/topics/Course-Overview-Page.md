@@ -17,4 +17,4 @@ The Course Overview Page has a number of components:
      ![Screenshot 2024-07-24 152119.png](course project overview.png)
    - Graded Activities 
      - This is a table that outlines the categories, due dates, and weights of the graded activities. It mirrors the table found on the syllabus, but is populated with greater detail.
-       ![Screenshot 2024-07-24 154231.png](graded activities.png)
+       ![graded activities.png](graded activities.png)
