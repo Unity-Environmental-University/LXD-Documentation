@@ -30,7 +30,7 @@
                 href='mailto:cmalmberg@unity.edu'>cmalmberg@unity.edu</a>).
             </li>
         </ul>
-        {courseSpecificContent}
+        {additions}
         <p>We appreciate your help in making sure these courses are good to go. Have a wonderful term.</p>
         <p>Cheers,</p>
         <p>{{userName}}</p>
