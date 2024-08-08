@@ -23,6 +23,7 @@ Note: Up-to-date documentation can be found at [the GitHub repository link](http
 Reload any canvas page you're on, the extension should be loaded.
 
 If you can't find the folder github downloaded the extension to, you can find it through github by going to Repository > Open in Explorer from the dropdown menu.
+
 <img src="show-in-explorer.png" width="400"/>
 
 ## Updating

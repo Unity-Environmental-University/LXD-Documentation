@@ -9,7 +9,7 @@
   - Switch to HTML ![HTML.jpg](HTML.JPG)
   - Look for the HTML code of the content you’d like to check. It should be near the text you are assessing and should say “color: #_ _ _ _ _ _ ;” (numbers or letters). Copy the hexcode. Example:  #e03e2d
   - Use the contrast checker by pasting the hexcode into the AIM tool for Foreground: 
- ![](light_red_foreground_1.JPG)
+  ![light_red_foreground.jpg](light_red_foreground.jpg)
   - Next, add the background. The code for white is #FFFFFF and    
     black is #000000.  
   ![Black_Background_Color_1.JPG](Black_Background_Color_1.JPG)
