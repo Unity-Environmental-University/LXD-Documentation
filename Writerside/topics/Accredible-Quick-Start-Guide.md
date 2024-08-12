@@ -19,6 +19,7 @@ Attributes are a placeholder value. They can be used in designs, or in emails as
 
 ### Info & Appearance
 On the Accredible website, click the “Group” tab in the top menu. This will take you to a page containing a list of groups. In the top right corner, you can click the button to create a group. When you first creae a group, you will be brought to the Info and Appearance page, where you need to enter details like the Display Name.
+
 ![A screenshot of the Accredible interface](Accredible_1.png)
 
 Once you’ve provided the group information, you will proceed to group appearance. This is where you can select a pre-made credential design. If you’re planning on using a design that needs to be uploaded, upload it to the Designs tab before trying to add it to the group. The appearance can be either a certificate or a badge. If you upload both a badge and certificate design, you will need to choose which of the two is the primary design.

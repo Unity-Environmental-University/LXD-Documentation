@@ -22,4 +22,4 @@ instead add citation requirements to all criteria where citation may be importan
 
 ## Examples
 
-![Screenshot 2024-07-24 133404.png](rubric example)
+![rubric_example.png](rubric_example.png)

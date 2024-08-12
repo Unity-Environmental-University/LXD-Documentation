@@ -162,7 +162,7 @@ Thank you,
 
 #### GISC 201+ and GISC 505+ {id="gisc-201-and-gisc-505_1"}
 Subject Line: Re-installing or returning to GIS
-<br><br>
+
 Welcome back to GIS at Unity DE!
 The instructions for downloading ArcGIS Pro are below if you need to re-install, although you may not need to change 
 anything since you have all taken Unity GIS courses in the past. If it has been awhile, we now use a “Named User License”
