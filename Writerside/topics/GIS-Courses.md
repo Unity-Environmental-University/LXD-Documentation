@@ -202,10 +202,8 @@ To reset your own password in ArcGIS Online:
 ArcGIS Pro does not run on OS systems. Currently, we ask students to obtain use of a PC for GIS classes.
 
 That being said, it depends on how motivated you are and how comfortable you are working with computer systems!
-ArcGIS Pro can be run on a Macbook using a virtual machine. In order to do that, you would install Boot Camp on your Mac for free,
-and you need to buy Windows 10 from unity.onthehub.com (~$15). Downloading Parallels allows you to run both Windows and 
-macOS at the same time, switching back and forth. If you just use Boot Camp you need to restart your computer in Windows
-mode every time you want to use ArcGIS Pro. https://pro.arcgis.com/en/pro-app/get-started/run-pro-on-a-mac.htm
+ArcGIS Pro can be run on a Macbook using a virtual machine. More information on that can be found here:
+https://pro.arcgis.com/en/pro-app/get-started/run-pro-on-a-mac.htm
 
 Again, it depends on how comfortable you are testing these things out. I can send more information on how to set up a 
 virtual machine if you are interested – I am happy to help! We also have had students borrow friends' computers for this
