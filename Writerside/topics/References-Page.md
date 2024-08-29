@@ -21,5 +21,9 @@ AI was used as a content-creation assistant.
 The most up-to-date copy of the template as it appears in Canvas can always be
 found in the [DEV_Template](https://unity.instructure.com/courses/3850558/pages/learning-materials-reference-page).
 
-A completed example of the References Page can be found in [EVPC 100](https://unity.instructure.com/courses/3973675/pages/references).
+See the [Course Overview](https://unity.instructure.com/courses/3850558/pages/course-overview) in 
+the DEV_Template for an example of how the Learning Materials References Page should be linked from 
+that page. 
+
+A completed example of the References Page can be found in [EVPC 100](https://unity.instructure.com/courses/3973675/pages/learning-materials-reference-page).
 
