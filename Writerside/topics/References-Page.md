@@ -1,4 +1,4 @@
-# References Page
+# Learning Materials References Page
 
 <note>This is a new process, as of 7/19/24, and it applies to all new builds
 and rebuilds going forward. Existing courses that are being updated / refreshed
