@@ -1,0 +1,2 @@
+# ARTS105
+<p>One additional reminder, please remember to divide students into "Workshop groups" for the Week 4 Course Project Step 4- The Workshop. Please let students know their groups by the end of Week 3, prior to the discussion in Week 4. We recommend sending out an announcement with the groups.</p>
