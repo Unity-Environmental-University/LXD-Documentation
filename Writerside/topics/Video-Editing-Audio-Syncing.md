@@ -2,7 +2,7 @@
 
 SMEs will occasionally submit/upload videos where the first few seconds are them getting set up and/or someone saying “action”, or another issue where audio and video do not align.
 
-For simple edits, see the instructions in the next section.
+*For simple edits, see the instructions in the next section.*
 
 For videos requiring audio/video syncing or other more complicated edits, Learning Technology Support Specialists can use Adobe Premiere (available to you with your Unity email) to re-sync the audio and video or perform other edits.
 
