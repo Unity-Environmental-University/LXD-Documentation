@@ -1,4 +1,4 @@
-### SME Video Recording Process
+# SME Video Recording Process
 
 >*SMEs will record videos under direction from Creative Media Designer (CMD).*
 
