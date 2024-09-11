@@ -51,17 +51,18 @@ Creative Media Developer
 ### Next Steps for CMD: 
 
 - **Work** in parallel with the SME in producing the course project video while the LXD and SME continue working on the Course Outline. 
-- **Support and guide** the SME in producing as high quality a video as possible, then send the video to the dean for feedback / approval. 
+- **Support and guide** the SME in producing as high quality a video as possible, then send the video to the dean for feedback / approval.
 - **Assess the SME for their presentation capabilities**. If it doesn’t seem like they are going to be capable of doing a good job recording course videos, the CMD should draw attention to that with the Dir. of LXD and the relevant Dean(s).
+- **Edit** the Course Project video and let the LXD and SME know when it has been approved by the dean so that the SME can begin recording weekly overviews. 
 
 ### Next Steps for LXD:
 Upon completion (the Dean signs off on the course outline), the LXD will:
-- **Connect** the SME with the LTSS, this time with an accompanying Video Outline Sheet Template, in which the LXD and SME should list the projected video recordings needed (the LTSS and SME can add to this if needed; this is just to get an idea of the scope). 
-- **Communicate** to the SME and LTSS what the deadline for media should be, given the needs of the development at that time. This should not be more than 1 month, and should preferably be 2 weeks or less, from the time when the Video Outline Sheet Template is filled out. 
-- **Refine** the course outline and start building the course in Canvas while LTSS works with the SME to record the remaining videos. 
-- **Remain** in regular contact with LTSS about the SME and the status of the course development throughout this time. 
+- **Connect** the SME with the CMD, this time with an accompanying Video Outline Sheet Template, in which the LXD and SME should list the projected video recordings needed (the CMD and SME can add to this if needed; this is just to get an idea of the scope). 
+- **Communicate** to the SME and CMD what the deadline for media should be, given the needs of the development at that time. This should not be more than 1 month, and should preferably be 2 weeks or less, from the time when the Video Outline Sheet Template is filled out. 
+- **Refine** the course outline and start building the course in Canvas while CMD works with the SME to record the remaining videos. 
+- **Remain** in regular contact with CMD about the SME and the status of the course development throughout this time. 
   - The LXD might still request to meet with the SME weekly to work on any remaining tasks (instructor guides, answer keys, supplemental materials, etc.)
 
 ### Upon Completion of Video Development:
-Upon completion of the videos, LTSS will upload them into Canvas Studio under the LTSS Canvas User’s account, directly in the course. They can then be populated within the course by LXD as they complete building the course out in Canvas. 
+Upon completion of the videos, CMD will upload them into Canvas Studio under the CMD Canvas User’s account, directly in the course. They can then be populated within the course by LXD as they complete building the course out in Canvas. 
 
