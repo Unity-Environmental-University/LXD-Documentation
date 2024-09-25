@@ -26,12 +26,9 @@ Once you have gotten the photo and bio, please make a new page in Faculty Bios a
 * Rename the page to the instructor's name exactly as it appear on their canvas account (i.e. how their name appears as the instructor of the course in the course search screen)
 The automated profile process should now pick up this person's name.
 
-After creating a new page, upload their photo and bio to google drive:
-* Go to DE External → Marketing → Add Folder → Label the Folder by the Instructor’s Name.
-* Upload the photo and copy the bio into a Google Doc with Instructor Name Bio as the title.
 
 ## Google
-Some instructor photos and bios can be found on Google Drive. You can find these by:
+Some legacy instructor photos and bios can be found on Google Drive. You can find these by:
 * In Google by going to DE external → marketing → Faculty Bios, Pics and CVs
 * Download the photo from GoogleDrive.
 * Create a new page for them and upload to google drive per instructions above.
@@ -39,3 +36,7 @@ Some instructor photos and bios can be found on Google Drive. You can find these
 ## No Photo / Bio Available
 If the instructor has not yet uploaded their photo to the canvas assignment and is not in the drive folder, email them directly (or add this request to the Course Copy Notification email) to request their photo and bio. As a new hire, their @Unity email may not be activated, so use their Unity email and their personal address as well.
 Create a Faculty Page for them and upload their info to google drive (see above) when you receive the new bio and pic.
+
+[Here is a link to a form email to send instructors asking for pics and bios.](https://docs.google.com/document/d/1EnO5nX2CvNVkpvtp2yMEeEchIK0mFt75HdjuzJhdbiw/edit#heading=h.1pvc3lb9q40p) 
+
+[Here is a link to an example bio / picture submission.](https://docs.google.com/document/d/1rqonkqWY8dR4MpZheqHKIQYy7QUWPYRl/edit)

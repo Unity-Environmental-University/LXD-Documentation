@@ -1,4 +1,4 @@
-# New Builds - Creating and Working in a Google Folder
+# Creating and Working in a Google Folder
 
 >This page focuses on creating and managing a Google folder throughout the New Build process. For more information on the New Build process and timeline, see [this page.](Course-Development-Timeline-and-Workflow.md) 
 > {style=note}
@@ -11,7 +11,7 @@ Before replying to the Head or Assistant Head of Learning Experience Design’s 
   - Example: MARI 505 (main folder), MARI 505 Winter 2020 New Build (subfolder).
 - Be sure that the permission is set to “Restricted” and add the instructor’s Unity email to the list of “Share with People and Groups”. A Unity email also serves as a Gmail/Drive account.
   - Generally, SMEs should use their Unity-provided email address for course edits.  This helps prevent multiple documents and limits work to the shared space that is also visible to the deans. In the event of a SME leaving or discontinuing work, it also ensures we still have access to the necessary materials in Drive. However, if a SME is set on using their personal gmail or lacks the tech skills to work effectively, you may add their personal gmail to the folder. Prioritize the work getting done well and in a timely manner over tech troubleshooting and use your best judgment. Google has a variety of tutorials you can recommend to the SME, if needed; working in Google Docs promotes an easy to monitor workflow.
-- Copy the following resources from the [Course Development Resources folder](https://drive.google.com/drive/folders/1-1ofnCYNCW4H1D3u68CT1uP3qMPMKJWQ?usp=drive_link) and move the copies into the new build folder:
+- Copy the following resources from the [Course Development Templates folder](https://drive.google.com/drive/folders/10zHz4YM3SSNo76Afw9pyrQqoazsK7-Ib) and move the copies into the new build folder:
   - Course Project Pre-Approval Template 
   - NEW DESIGN Course Project Template 
   - NEW DESIGN Course Outline Template 
@@ -33,6 +33,8 @@ To link to a course project section in a Google doc from another Google doc:
 
 ### Dealing with and resolving Comments:
 As work progresses on course project documents and course outlines, there are often many suggestions and comments made by SMEs, LXDs, and Deans. In order to best track changes and the resolution of suggestions/comments, please following these guidelines:
+
+- Instruct SMEs to turn on comment notifications within the Google document. In the document, go to Tools - Notification Settings - All Comments. This will allow the SME, who is generally not the owner of the doc, to receive notifications when the Dean and LXD make new comments and suggestions. 
 - Instruct SMES to leave Deans’ comments. Dean and Associate Dean comments are to be resolved ONLY by LXDs or Deans themselves.
 *The LXD is responsible for communicating this information to SMEs. 
 

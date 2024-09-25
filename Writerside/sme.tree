@@ -4,9 +4,9 @@
 
 <instance-profile id="sme"
                  name="SME Documentation"
-                 start-page="sme-documentation.md">
+                 start-page="Learning-Materials.md">
 
-    <toc-element topic="sme-documentation.md">
-        <toc-element topic="file-structure.md"/>
-    </toc-element>
+    <toc-element topic="What-to-Expect-when-SMEing-a-Unity-DE-Course.md"/>
+    <toc-element topic="Learning-Materials.md"/>
+    <toc-element topic="Assignment-Ideas-SME-Version.md"/>
 </instance-profile>

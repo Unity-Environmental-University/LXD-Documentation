@@ -1,0 +1,3 @@
+# TinkerCad
+
+This user-friendly 3D design website offers a simple interface for creating models or other digital representations. Students sign up for a free account and can save their designs to work on as courses progress. An example of a current application is ANIM307 where students design captive animal environments, and other courses with 3D design may be relevant courses where TinkerCad can be incorporated.

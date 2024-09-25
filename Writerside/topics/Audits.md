@@ -1,6 +1,7 @@
 # Audits
 
-Audits
+
+
 Courses occasionally undergo the auditing process, which is when an LXD goes through all the course components and offers specific feedback to the different sections of the course. This is beyond the scope of a more typical update and may result in a course refresh or overhaul. The Deans typically assign audits with Trello cards. Audits are often based on the original development date of courses (older courses are audited to re-align to design standards), though LXDs and LTSSs can flag courses for Audit after an update or based on instructor feedback
   
 
@@ -61,4 +62,8 @@ Courses occasionally undergo the auditing process, which is when an LXD goes thr
    - If students use AI to complete an assignment/discussion, where is their learning?
 
    - How could/should students use AI in the course assignments and discussions
-tart typing here...
+
+<note>Refer to AI Documentation (Chris authoring)</note>
+
+## Table of Contents
+<toc></toc>

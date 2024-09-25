@@ -25,4 +25,143 @@
         <description>Created after removal of "Hannah Practice" from LXD Documentation</description>
         <accepts>Hannah-Practice.html</accepts>
     </rule>
+    <rule id="3c21d2be">
+        <description>Created after removal of "About SME Documentation" from LXD Documentation</description>
+        <accepts>sme-documentation.html</accepts>
+    </rule>
+    <rule id="63701de4">
+        <description>Created after removal of "Greg's Changes" from LXD Documentation</description>
+        <accepts>Greg-s-Changes.html</accepts>
+    </rule>
+    <rule id="42a76037">
+        <description>Created after removal of "Hannah's Changes" from LXD Documentation</description>
+        <accepts>Hannah-s-Changes.html</accepts>
+    </rule>
+    <rule id="7e6e43db">
+        <description>Created after removal of "Kerrie's changes" from LXD Documentation</description>
+        <accepts>Kerrie-s-changes.html</accepts>
+    </rule>
+    <rule id="2fd9e5df">
+        <description>Created after removal of "Dave's Folder" from LXD Documentation</description>
+        <accepts>Dave-s-Folder.html</accepts>
+    </rule>
+    <rule id="43dcdc7b">
+        <description>Created after removal of "Danny's Sections" from LXD Documentation</description>
+        <accepts>Danny-s-Sections.html</accepts>
+    </rule>
+    <rule id="704d1933">
+        <description>Created after removal of "Mike's Changes" from LXD Documentation</description>
+        <accepts>Mike-s-Changes.html</accepts>
+    </rule>
+    <rule id="438907a9">
+        <description>Created after removal of "Hallie's Additions" from LXD Documentation</description>
+        <accepts>Hallie-s-Additions.html</accepts>
+    </rule>
+    <rule id="43f988bd">
+        <description>Created after removal of "Process Manual Introduction" from LXD Documentation</description>
+        <accepts>Process-Manual-Introduction.html</accepts>
+    </rule>
+    <rule id="7f11b202">
+        <description>Created after removal of "Microsoft Word" from LXD Documentation</description>
+        <accepts>Microsoft-Word.html</accepts>
+    </rule>
+    <rule id="16f68ccd">
+        <description>Created after removal of "Role Definition and Course “Ownership” for ID/SME" from LXD
+            Documentation
+        </description>
+        <accepts>Role-Definition-and-Course-“Ownership”-for-ID-SME.html</accepts>
+    </rule>
+    <rule id="76296183">
+        <description>Created after removal of "Weekly Overview and Objectives" from LXD Documentation</description>
+        <accepts>Weekly-Overview-and-Objectives.html</accepts>
+    </rule>
+    <rule id="34568a1c">
+        <description>Created after removal of "Course Structure" from LXD Documentation</description>
+        <accepts>Course-Structure.html</accepts>
+    </rule>
+    <rule id="5f8486eb">
+        <description>Created after removal of "Course Project Overview" from LXD Documentation</description>
+        <accepts>Course-Project-Overview.html</accepts>
+    </rule>
+    <rule id="705856d2">
+        <description>Created after removal of "Updates" from LXD Documentation</description>
+        <accepts>Updates.html</accepts>
+    </rule>
+    <rule id="2816d63f">
+        <description>Created after removal of "Running an Outcomes Report" from LXD Documentation</description>
+        <accepts>Running-an-Outcomes-Report.html</accepts>
+    </rule>
+    <rule id="1e275a7c">
+        <description>Created after removal of "Setting up Learning Outcome Assessment in Canvas" from LXD
+            Documentation
+        </description>
+        <accepts>Setting-up-Learning-Outcome-Assessment-in-Canvas.html</accepts>
+    </rule>
+    <rule id="5a52b9c1">
+        <description>Created after removal of "Documentation Playground Activity" from LXD Documentation</description>
+        <accepts>Home.html</accepts>
+    </rule>
+    <rule id="657207a4">
+        <description>Created after removal of "Familiarizing with the Writerside File Structure" from LXD
+            Documentation
+        </description>
+        <accepts>file-structure.html</accepts>
+    </rule>
+    <rule id="27ee6e1e">
+        <description>Created after removal of "How To Build" from LXD Documentation</description>
+        <accepts>How-To-Build.html</accepts>
+    </rule>
+    <rule id="6e117841">
+        <description>Created after removal of "Other Course Pages" from LXD Documentation</description>
+        <accepts>Other-Course-Pages.html</accepts>
+    </rule>
+    <rule id="1b7f4d41">
+        <description>Created after removal of "Templates" from LXD Documentation</description>
+        <accepts>Templates.html</accepts>
+    </rule>
+    <rule id="7df6db66">
+        <description>Created after removal of "This is the first topic" from LXD Documentation</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="179d05e7">
+        <description>Created after removal of "Starter" from LXD Documentation</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="51ebac17">
+        <description>Created after removal of "How to" from LXD Documentation</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="1420c7f7">
+        <description>Created after removal of "Overview" from LXD Documentation</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="47f35db">
+        <description>Created after removal of "Reference" from LXD Documentation</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="4a35bd24">
+        <description>Created after removal of "Tutorial" from LXD Documentation</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="4da4433c">
+        <description>Created after removal of "Drafting Space (Delete when the Great Documentation is Complete)" from
+            LXD Documentation
+        </description>
+        <accepts>Writerside.html</accepts>
+    </rule>
+    <rule id="30236230">
+        <description>Created after removal of "Familiarizing with the Writerside File Structure" from SME
+            Documentation
+        </description>
+        <accepts>file-structure.html</accepts>
+    </rule>
+    <rule id="632a5fdc">
+        <description>Created after removal of "About SME Documentation" from SME Documentation</description>
+        <accepts>sme-documentation.html</accepts>
+    </rule>
+    <rule id="6069c477">
+        <description>Created after removal of "SME What to Expect When Building a New Course" from LXD Documentation
+        </description>
+        <accepts>What-to-Expect-When-Building-a-New-Course.html</accepts>
+    </rule>
 </rules>

@@ -1,4 +1,4 @@
-# Calendars
+# Academic Calendars
 
 ## Academic Calendars
 

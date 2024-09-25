@@ -22,7 +22,9 @@ For undergraduates, the asynchronous course design in addition to the five-week 
 
 The outcomes of all Unity courses emphasize the progression from lower level thinking skills and competencies to higher level ones based on Bloom’s Taxonomy. Students in Unity courses use the knowledge and information from the curated selection of learning materials in order to complete various assignments, discussions, quizzes, labs, and Course Projects. As they progress through their courses, students move to the stages of application, analysis, synthesis, and evaluation. Assessments should push students to these more complex thought processes.
 
-With these thinking skills and outcomes in mind, courses are designed through the Understanding by Design (UbD) or Backwards design model (in conjunction with Universal Design): these learning goals and desired skills inform the creation of the course and its components. SMEs must determine how they will assess students’ mastery of these skills, driving them to create relevant, meaningful activities (as opposed to beginning with content or possible activities and then seeking out skill outcomes). Prioritizing outcomes and skills as opposed to content and knowledge ensures the design of the course addresses the higher order thinking in Bloom’s taxonomy. Outcomes phrased as “Students will be able to” emphasize skills and applications over merely acquiring factual knowledge. This model promotes a more intentional approach to learning. In other words, what can students do at the end of a course?
+![Blooms Tax.png](Blooms Tax.png)
+
+With these thinking skills and outcomes in mind, courses are designed through the Understanding by Design (UbD) or Backwards design model (in conjunction with Universal Design): these learning goals and desired skills inform the creation of the course and its components. SMEs must determine how they will assess students’ mastery of these skills, driving them to create relevant, meaningful activities (as opposed to beginning with content or possible activities and then seeking out skill outcomes). Prioritizing outcomes and skills as opposed to content and knowledge ensures the design of the course addresses the higher order thinking in Bloom’s Taxonomy. Outcomes phrased as “Students will be able to” emphasize skills and applications over merely acquiring factual knowledge. This model promotes a more intentional approach to learning. In other words, what can students do at the end of a course?
 
 The Course Project exemplifies the integration of the course design, learning outcomes, and assessment of student progress. By designing the Course Project first, the rest of the course can be structured around its tasks, learning outcomes, and skill development. More on the philosophy of the Course Project below.
 
@@ -37,4 +39,7 @@ For further reading, consult these resources:
 [Understanding by Design Framework](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/)   
 [Universal Design](https://www.washington.edu/doit/what-universal-design-0)   
 [The UDL Guidelines](https://udlguidelines.cast.org/)   
-[Webb’s Depth of Knowledge](https://www.aps.edu/sapr/documents/resources/Webbs_DOK_Guide.pdf)   
+[Webb’s Depth of Knowledge](https://www.aps.edu/sapr/documents/resources/Webbs_DOK_Guide.pdf)
+
+## Table of Contents
+<toc></toc>
