@@ -73,6 +73,8 @@ to each course.
 2. Copy the correct email for the course below.
 
 #### GISC 101
+Subject Line: ArcGIS Online for GISC 101
+
 Hello GIS Students,
 
 Congrats on enrolling in your first GIS class at Unity! You will work with ArcGIS Online for multiple assignments in 
@@ -88,6 +90,8 @@ Thank you,
 (Insert Name Here)
 
 #### SUST 510
+Subject Line: ArcGIS Online for SUST 510
+
 Hello SUST 510 Students,
 
 In SUST 510, you will work with ArcGIS Online for multiple assignments. You should have been enrolled in Unity’s ArcGIS
