@@ -13,7 +13,7 @@ How-to fill out Incomplete Requests
 >
 {style="note"}
 
-## What are incomplete requests?
+## What are Incomplete Requests?
 
 Incomplete requests are submitted to extend the grading process at the end of a term. Instructors typically submit these requests for one of two reasons:
 - Needs to finish final grades
