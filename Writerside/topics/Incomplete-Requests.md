@@ -21,7 +21,7 @@ Incomplete requests are submitted to extend the grading process at the end of a 
 
 
 ## Procedure for Managing Incomplete Requests
-When you receive a notification that a new user has been added to the Incomplete Request list:
+>When you receive a notification that a new user has been added to the Incomplete Request list:
 
 1. Check
    - Term
@@ -43,3 +43,5 @@ When you receive a notification that a new user has been added to the Incomplete
 12. Find the Teacher (which is found under "role"), click on the kebab menu (the three vertical dots) at the end of their row, and click "Edit Sections"
 13. If there's a student in the notes, add the student to the section as well following the same steps.
 14. Click "Enter a section name" and the new section you created, then click update
+
+>Once you're done, add your initial to the "Done?" section of the spreadsheet
