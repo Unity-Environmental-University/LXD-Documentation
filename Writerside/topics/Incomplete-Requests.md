@@ -43,4 +43,4 @@ When you receive a notification that a new user has been added to the Incomplete
 11. Click "People" in the Courses Navigation Menu
 12. Find the Teacher (which is found under "role"), click on the kebab menu (the three vertical dots) at the end of their row, and click "Edit Sections"
 13. Click "Enter a section name" and the new section you created, then click update
-14. 
+14. placeholder for more info
