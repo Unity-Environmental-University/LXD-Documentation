@@ -8,7 +8,7 @@ How-to fill out Incomplete Requests
 >  - Click "Tools"
 >  - Hover over "Notification settings" and click "Edit notifications"
 >  - Click "Add another notification rule"
->  - Click "A user submits a form" and "Email - right away"
+>  - Click "Any changes are made" and "Email - right away"
 >  - Click "Save"
 >
 {style="note"}

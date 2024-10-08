@@ -6,7 +6,7 @@
 >  - Click "Tools"
 >  - Hover over "Notification settings" and click "Edit notifications"
 >  - Click "Add another notification rule"
->  - Click "A user submits a form" and "Email - right away"
+>  - Click "Any changes are made" and "Email - right away"
 >  - Click "Save"
 >
 {style="note"}
@@ -31,7 +31,7 @@ Add to Canvas Shell requests are submitted to add faculty to their assigned Canv
 4. Click "+ People"
 5. Under "Add user(s) by" Click on "Login ID"
 6. In the text box for "Login IDs (required)" type the user name provided
-7. Under "Role" change to "Teacher" unless the request states otherwise
+7. Under "Role" change to "Course QA" unless the request states otherwise
 8. Check box for "Can interact with users in their section only"
 9. Click "Next"
 10. Click "Add Users"
