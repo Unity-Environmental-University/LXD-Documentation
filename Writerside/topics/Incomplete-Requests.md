@@ -36,7 +36,7 @@ Incomplete requests are submitted to extend the grading process at the end of a 
 5. Under "Add a New Section," type in a name for the section (Could just be "grade appeal," "incomplete," or something similar that describes the purpose of the section) and click "+ Section" to add the new section
 6. Click the name of your new section
 7. Click "Edit Section"
-8. Edit the start date to a day before the deadline and the end date to a day after the deadline
+8. Edit the start date to a day before the current day at 12:00am and the end date to the deadline date at 11:59pm
 9. Check the box that says "Students can only participate in the course between these dates."
 10. Click "Update Section"
 11. Click "People" in the Courses Navigation Menu
