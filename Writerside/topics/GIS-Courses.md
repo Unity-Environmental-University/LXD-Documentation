@@ -209,9 +209,8 @@ That being said, it depends on how motivated you are and how comfortable you are
 ArcGIS Pro can be run on a Macbook using a virtual machine. More information on that can be found here:
 https://pro.arcgis.com/en/pro-app/get-started/run-pro-on-a-mac.htm
 
-Again, it depends on how comfortable you are testing these things out. I can send more information on how to set up a 
-virtual machine if you are interested – I am happy to help! We also have had students borrow friends' computers for this
-class.
+Again, it depends on how comfortable you are testing these things out. If you decide to run a virtual machine, let me 
+know if I can be of any assistance. We also have had students borrow friends' computers for this class.
 
 #### GIS Computer Recommendations
 When choosing a computer for ArcGIS Pro, it is important to consider the ArcGIS Pro requirements: 
