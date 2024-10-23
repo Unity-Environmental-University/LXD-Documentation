@@ -105,8 +105,6 @@ Thank you,
 
 (Insert Name Here)
 
-**Note:** For the below emails, attach the following as a PDF to emails: [ArcGIS Pro Installation Instructions](https://drive.google.com/file/d/1kBPAiFgRYygpM-iR44L4UWZlkZXDFf68/view?usp=sharing)
-
 #### GISC 201 and GISC 505
 Subject Line: ArcGIS Pro Installation Instructions
 
@@ -115,12 +113,10 @@ Hello GIS Students,
 Before you can start using GIS you need to check that it can run on your computer. If you have a MacBook, please email 
 gsiekman@unity.edu ASAP (ArcGIS does not run on macOS systems).
 
-The installation guide for ArcGIS Pro is on Canvas. If you would like to get started ASAP, please follow the attached 
+The installation guide for ArcGIS Pro is on Canvas. If you would like to get started ASAP, please follow the below 
 instructions for installing ArcGIS Pro (these instructions are also on the Canvas course page). We recommend starting as
 soon as possible since the installation is often the most difficult part of the process, and if your computer does not 
 meet the requirements you may need to find a new course for this term.
-
-The most important parts for ArcGIS Pro installation are as follows:
 
 Step 1: Can you run it?
 
@@ -164,13 +160,12 @@ Thank you,
 
 (Insert name here)
 
-#### GISC 201+ and GISC 505+ {id="gisc-201-and-gisc-505_1"}
+#### GISC 301+ and GISC 510+ {id="gisc-201-and-gisc-505_1"}
 Subject Line: Re-installing or returning to GIS
 
 Welcome back to GIS at Unity DE!
 The instructions for downloading ArcGIS Pro are below if you need to re-install, although you may not need to change 
-anything since you have all taken Unity GIS courses in the past. If it has been awhile, we now use a “Named User License”
-rather than the student codes (these codes expire every year). You can download and install ArcGIS Pro and then sign into
+anything since you have all taken Unity GIS courses in the past. You can download and install ArcGIS Pro and then sign into
 it using your ArcGIS Online credentials.
 
 Downloading and Installing the ArcGIS Software
