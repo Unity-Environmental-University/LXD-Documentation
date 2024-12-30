@@ -198,7 +198,7 @@ To reset your own password in ArcGIS Online:
    4. From here you can reset your password
 
 #### Set up ArcGIS on Mac
-ArcGIS Pro does not run on OS systems. Currently, we ask students to obtain use of a PC for GIS classes.
+ArcGIS Pro does not run on macOS systems. Currently, we ask students to obtain use of a PC for GIS classes.
 
 That being said, it depends on how motivated you are and how comfortable you are working with computer systems!
 ArcGIS Pro can be run on a Macbook using a virtual machine. More information on that can be found here:
