@@ -11,12 +11,13 @@ Use three-point lighting to illuminate the SME/Dean, avoiding harsh shadows and 
 - Audio Rec Level should be set to 18.
 - Test and monitor levels, which should range from -18db to -6db for crisp audio.
 
-## Camera Position
-| -------------------------------------- | -------- |
-| `A` Camera Distance from Background    | 14 ft.   |
-| `A` Camera Height (floor to sensor)    | 46.5 in. |
-| `B` Camera Height (floor to sensor)    | 48.5 in. |
-| Distance Between Center of Sticks      | 43 in.   |
+## Camera 
+| Measurement                         | Value    |
+|-------------------------------------|----------|
+| `A` Camera Distance from Background | 14 ft.   |
+| `A` Camera Height (floor to sensor) | 46.5 in. |
+| `B` Camera Height (floor to sensor) | 48.5 in. |
+| Distance Between Center of Sticks   | 43 in.   |
 
 ## Camera Settings
 ### Sony FX3
