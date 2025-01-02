@@ -5,6 +5,12 @@ Use three-point lighting to illuminate the SME/Dean, avoiding harsh shadows and 
 - Place key light on subject’s smart side (away from the camera) and fill light on the subject’s dumb side (facing the camera) for maximized depth.
 - Adjust barn doors to direct light and avoid excessive blooming from rim light.
 
+| **Light** | **Output** | **Kelvin** | **Diffusion**                 |
+|-----------|------------|------------|-------------------------------|
+| Key       | 100%       | 3600       | Opal Frost with 216 diff roll |
+| Fill      | 18%        | 3600       | Opal Frost                    |
+| Rim       | 35%        | 3600       | Opal Frost                    |
+
 ## Audio
 - Place Sennheiser shotgun mic just out of frame above the subject via boom stand on the subject’s dumb side.
 - Plug male end of XLR into the XLR to 3.5mm jack adapter. Then plug 3.5mm jack into Sony FX3 audio input.
