@@ -59,3 +59,14 @@ Use three-point lighting to illuminate the SME/Dean, avoiding harsh shadows and 
 | Focal Length                        | 35mm                 |
 | Filters                             | Black Pro Mist 1/4   |
 
+### Equipment to Purchase
+
+| **Expendables** |                         |
+|-----------------|-------------------------| 
+|                 | Clothes pins            |
+|                 | A clamps                |
+|                 | 216 diffusion roll      |
+|                 | 250 diffusion roll      |
+| **Support**     | 2x C-Stand for lights   |
+|                 | Seamless stand extender |
+| **Cables**      | 20 ft. XLR cable        |
