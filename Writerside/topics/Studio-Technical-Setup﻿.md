@@ -21,43 +21,45 @@ Use three-point lighting to illuminate the SME/Dean, avoiding harsh shadows and 
 ## Camera Settings
 ### Sony FX3
 
-| ----------------------------------- | -------------------- |
-| Mode                                | Manual               |
-| Frame Rate                          | 23.98p               |
-| Aperture                            | F2.8                 |
-| White Balance                       | 3600K                |
-| Resolution                          | UHD 3840 x 2160      |
-| Color Space                         | S-Gamut3.Cine/S-log3 |
-| Codec                               | XAVC S 4K            |
-| Bit rate, Color Sampling, Bit depth | 100M 422 10bit       |
-| Monitoring LUT                      | s709 On              |
-| Base ISO/EI                         | 800                  |
-| Shutter                             | 1/48                 |
-| Audio Rec Level                     | 18                   |
-| Lens                                | Sigma 24-70mm F4.0   |
-| Focal Length                        | 70mm                 |
-| Filters                             | Black Pro Mist 1/8   |
+| Feature                                | Setting                     |
+|----------------------------------------|-----------------------------|
+| Mode                                   | Manual                      |
+| Frame Rate                             | 23.98p                      |
+| Aperture                               | F2.8                        |
+| White Balance                          | 3600K                       |
+| Resolution                             | UHD 3840 x 2160             |
+| Color Space                            | S-Gamut3.Cine/S-log3        |
+| Codec                                  | XAVC S 4K                   |
+| Bit rate, Color Sampling, Bit depth    | 100M 422 10bit              |
+| Monitoring LUT                         | s709 On                     |
+| Base ISO/EI                            | 800                         |
+| Shutter                                | 1/48                        |
+| Audio Rec Level                        | 18                          |
+| Lens                                   | Sigma 24-70mm F4.0          |
+| Focal Length                           | 70mm                        |
+| Filters                                | Black Pro Mist 1/8          |
 
 
 ### Blackmagic Pocket Cinema Camera 4K
 
-| ----------------------------------- | -------------------- |
-| Mode                                | Manual               |
-| Frame Rate                          | 23.98p               |
-| Aperture                            | F4.5                 |
-| White Balance                       | 3600K                |
-| Resolution                          | UHD 3840 x 2160      |
-| Color Space                         | BMD Video Gen 4      |
-| Codec                               | ProRes HQ            |
-| Bit rate, Color Sampling, Bit depth | 220M 422 10bit       |
-| Dynamic Range                       | Film                 |
-| Monitoring LUT                      | On                   |
-| Base ISO/EI                         | 800                  |
-| Shutter                             | 180                  |
-| Audio Rec Level                     | Onboard recording    |
-| Lens                                | Sigma 18-35mm T1.2   |
-| Focal Length                        | 35mm                 |
-| Filters                             | Black Pro Mist 1/4   |
+| Feature                                | Setting                 |
+|----------------------------------------|-------------------------|
+| Mode                                   | Manual                  |
+| Frame Rate                             | 23.98p                  |
+| Aperture                               | F4.5                    |
+| White Balance                          | 3600K                   |
+| Resolution                             | UHD 3840 x 2160         |
+| Color Space                            | BMD Video Gen 4         |
+| Codec                                  | ProRes HQ               |
+| Bit rate, Color Sampling, Bit depth    | 220M 422 10bit          |
+| Dynamic Range                          | Film                    |
+| Monitoring LUT                         | On                      |
+| Base ISO/EI                            | 800                     |
+| Shutter                                | 180                     |
+| Audio Rec Level                        | Onboard recording       |
+| Lens                                   | Sigma 18-35mm T1.2      |
+| Focal Length                           | 35mm                    |
+| Filters                                | Black Pro Mist 1/4      |
 
 ### Equipment to Purchase
 

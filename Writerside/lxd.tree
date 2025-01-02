@@ -123,6 +123,7 @@
         <toc-element topic="How-to-Host-Instructor-Only-Files-in-Canvas.md"/>
     </toc-element>
     <toc-element topic="Creative-Content.md">
+        <toc-element topic="Studio-Technical-Setup﻿.md"/>
         <toc-element topic="Production-Guide.md"/>
     </toc-element>
 
