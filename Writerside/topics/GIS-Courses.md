@@ -129,7 +129,7 @@ a new computer, or borrow a computer. If you have any questions on this, please 
 [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/get-started/arcgis-pro-system-requirements.htm)
 2. After you have reviewed the system requirements, scroll to near the top of the page and click on the "Check your 
 computer's ability to run ArcGIS Pro.”  Then, click on the "Can you RUN it" button to check your computer's capability 
-to run the GIS software https://links.esri.com/run-arcgis-pro
+to run the GIS software [https://links.esri.com/run-arcgis-pro](https://www.systemrequirementslab.com/client-app?refid=1256&appkey=6D681CD0-BA6C-4B6B-9A82-639759CFD094&requirementsetid=23091)
 3. Follow the steps to check your system requirements. When the Detection App completes the hardware scan, your results 
 will display.
 
