@@ -35,7 +35,7 @@ To help you get started, here are some key resources:
 
 1. [Course Video Recording Guide](https://drive.google.com/file/d/1EHl1QuT8nLFSeIzlTuKmsLDEb89hELYZ/view)
 2. [Instructions for Using Microsoft PowerPoint to Record](https://drive.google.com/file/d/1Kgo9vUlU7HS6yZUqnKJvYEzK_J-ZyXf4/view)
-3. [Unity Course Video Slide Deck](https://drive.google.com/uc?export=download&id=1x1wyMvNCmt69OzCgbC7tL3W296YxkCm9)
+3. [Unity Course Video Slide Deck (Downloads directly to computer)](https://drive.google.com/uc?export=download&id=1x1wyMvNCmt69OzCgbC7tL3W296YxkCm9)
 
 Our first priority will be recording the Course Project video. After that, we can work together to plan and schedule the remaining recordings.
 
