@@ -24,7 +24,6 @@
             <toc-element topic="Course-Introduction.md"/>
             <toc-element topic="Course-Project-Philosophy.md"/>
             <toc-element topic="Course-Overview-Page.md"/>
-            <toc-element topic="Learning-Materials.md"/>
             <toc-element topic="Quizzes.md"/>
             <toc-element topic="References-Page.md"/>
             <toc-element topic="Weekly-Overview-Pages.md"/>
@@ -96,6 +95,7 @@
         </toc-element>
     </toc-element>
     <toc-element topic="Course-Oddities.md">
+        <toc-element topic="Learning-Materials.md"/>
         <toc-element topic="GIS-Courses.md"/>
         <toc-element topic="Materials-for-CHEM-204-Information-and-Purchasing-Directions-for-Students.md"/>
         <toc-element topic="Pre-Course-Modules.md"/>
