@@ -4,8 +4,10 @@
 This course project allows students to create their own page that will be available to students in their current and 
 future terms.
 
-There are generic accounts ([LTSS@Unity.edu](mailto:LTSS@Unity.edu) / [learningexperiencedesign@unity.edu](mailto:learningexperiencedesign@unity.edu)) for the setup of this wiki and its 
-accounts.
+We use one shared account [learningexperiencedesign@unity.edu](mailto:learningexperiencedesign@unity.edu)) to manage this tool. To log into that account, you'll need
+to use the login credentials and password for the WorldAtlasWiki at the top of the [Institutional Passwords Google](https://docs.google.com/document/d/1xUje6ce-csNt6mWpTTRekkMaC-ibUcLe5deWI67tVVs/edit?tab=t.0) doc. 
+
+Please log in before following the steps below: 
 
 <procedure>
     <step>

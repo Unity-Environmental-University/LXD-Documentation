@@ -105,8 +105,6 @@ Thank you,
 
 (Insert Name Here)
 
-**Note:** For the below emails, attach the following as a PDF to emails: [ArcGIS Pro Installation Instructions](https://drive.google.com/file/d/1kBPAiFgRYygpM-iR44L4UWZlkZXDFf68/view?usp=sharing)
-
 #### GISC 201 and GISC 505
 Subject Line: ArcGIS Pro Installation Instructions
 
@@ -115,12 +113,10 @@ Hello GIS Students,
 Before you can start using GIS you need to check that it can run on your computer. If you have a MacBook, please email 
 gsiekman@unity.edu ASAP (ArcGIS does not run on macOS systems).
 
-The installation guide for ArcGIS Pro is on Canvas. If you would like to get started ASAP, please follow the attached 
+The installation guide for ArcGIS Pro is on Canvas. If you would like to get started ASAP, please follow the below 
 instructions for installing ArcGIS Pro (these instructions are also on the Canvas course page). We recommend starting as
 soon as possible since the installation is often the most difficult part of the process, and if your computer does not 
 meet the requirements you may need to find a new course for this term.
-
-The most important parts for ArcGIS Pro installation are as follows:
 
 Step 1: Can you run it?
 
@@ -133,7 +129,7 @@ a new computer, or borrow a computer. If you have any questions on this, please 
 [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/get-started/arcgis-pro-system-requirements.htm)
 2. After you have reviewed the system requirements, scroll to near the top of the page and click on the "Check your 
 computer's ability to run ArcGIS Pro.”  Then, click on the "Can you RUN it" button to check your computer's capability 
-to run the GIS software https://links.esri.com/run-arcgis-pro
+to run the GIS software [https://links.esri.com/run-arcgis-pro](https://www.systemrequirementslab.com/client-app?refid=1256&appkey=6D681CD0-BA6C-4B6B-9A82-639759CFD094&requirementsetid=23091)
 3. Follow the steps to check your system requirements. When the Detection App completes the hardware scan, your results 
 will display.
 
@@ -164,13 +160,12 @@ Thank you,
 
 (Insert name here)
 
-#### GISC 201+ and GISC 505+ {id="gisc-201-and-gisc-505_1"}
+#### GISC 301+ and GISC 510+ {id="gisc-201-and-gisc-505_1"}
 Subject Line: Re-installing or returning to GIS
 
 Welcome back to GIS at Unity DE!
 The instructions for downloading ArcGIS Pro are below if you need to re-install, although you may not need to change 
-anything since you have all taken Unity GIS courses in the past. If it has been awhile, we now use a “Named User License”
-rather than the student codes (these codes expire every year). You can download and install ArcGIS Pro and then sign into
+anything since you have all taken Unity GIS courses in the past. You can download and install ArcGIS Pro and then sign into
 it using your ArcGIS Online credentials.
 
 Downloading and Installing the ArcGIS Software
@@ -203,15 +198,14 @@ To reset your own password in ArcGIS Online:
    4. From here you can reset your password
 
 #### Set up ArcGIS on Mac
-ArcGIS Pro does not run on OS systems. Currently, we ask students to obtain use of a PC for GIS classes.
+ArcGIS Pro does not run on macOS. Currently, we ask students to obtain use of a PC for GIS classes.
 
 That being said, it depends on how motivated you are and how comfortable you are working with computer systems!
 ArcGIS Pro can be run on a Macbook using a virtual machine. More information on that can be found here:
 https://pro.arcgis.com/en/pro-app/get-started/run-pro-on-a-mac.htm
 
-Again, it depends on how comfortable you are testing these things out. I can send more information on how to set up a 
-virtual machine if you are interested – I am happy to help! We also have had students borrow friends' computers for this
-class.
+Again, it depends on how comfortable you are testing these things out. If you decide to run a virtual machine, let me 
+know if I can be of any assistance. We also have had students borrow friends' computers for this class.
 
 #### GIS Computer Recommendations
 When choosing a computer for ArcGIS Pro, it is important to consider the ArcGIS Pro requirements: 
