@@ -62,11 +62,10 @@ completion.
    picture to the details, think about how the assignments help students achieve
    those outcomes
 6. Course Project: Unity College Distance Education works hard to provide
-   hands-on, real-world opportunities to assess students. Each course has a well
-   developed course project, the final deliverable of which is due at the end of the
+   hands-on, real-world opportunities to assess students. Each course has a well-developed course project, the final deliverable of which is due at the end of the
    term. Earlier Course Project deliverables are collected in weekly assignments, a
    process called “scaffolding,” in a way designed to promote student success. Your
-   LD will help you with this..
+   LD will help you with this.
    - Usually in the first meeting, you and the LD brainstorm on a course project
    as described above.
    - The SME will be expected to provide examples of authentic artifacts,
