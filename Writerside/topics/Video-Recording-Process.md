@@ -12,6 +12,8 @@ As we prepare to record the course videos for CODE XXX, I'd like to introduce yo
 
 [Name] will follow up on this email to schedule a meeting with you. During this meeting, they will help you get ready to record your course videos. You'll also receive our Course Video Recording Guide, instructions on using Microsoft PowerPoint for recording, and details on our expectations for the slide deck. It is crucial that you review ALL documents shared with you from the CMD, so that we can avoid having to re-recreate any slides or re-record a video.
 
+**Course Build Deadline:** XX/XX/2025 <br> **Course Run Date:** XX/XX/2025
+
 You will begin by recording the Course Project Overview video, and then you can coordinate with the CMD to plan the rest of the recordings after your Course Project video is approved. Enjoy the process!
 
 Thanks,
