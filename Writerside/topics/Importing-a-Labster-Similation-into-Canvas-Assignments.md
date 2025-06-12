@@ -51,8 +51,7 @@ In a course with Labster:
 1. Click "Save"
 1. Open the Instrcutor Guide page
 1. Click "Edit"
-1. Add the following language to the Labster information in the Instructor Guide: 
+1. Add the following language to the Labster information in the Instructor Guide:  
 "The Labster Dashboard in the Instructor Guide module is a resource where you can look at the grades of student’s completed Labster assignments. Please leave this unpublished.
-
-If a student doesn’t have a grade for a Labster assignment in the grade book after the due date of the assignment has passed, check the dashboard for their grade and manual enter it into grade book."
+If a student doesn’t have a grade for a Labster assignment in the grade book after the due date of the assignment has passed, check the dashboard for their grade and manual enter it into grade book."  
 1. Click "Save"
