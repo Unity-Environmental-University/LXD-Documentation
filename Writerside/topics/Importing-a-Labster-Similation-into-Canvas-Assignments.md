@@ -26,3 +26,33 @@ Click on the assignment and then click “edit”
 1. Add the simulation: Click “add”, “select”, and “save”
 1. Make sure that “Load this Tool in a New Tab” is not selected
 1. Verify that the Labster sim appears on the assignment page and in the correct module
+
+## Adding Labster Dashboard to Instructor Guide
+In a course with Labster:
+
+1. Click "Modules"
+1. Click "+" on the Instructor Guide module.
+![An orange circle over the plus button of a Canvas module.](../images/LabsterDashboard1.png)
+1. Select Assignment from drop down.
+1. Select the "[ Create Assignment ]" option.
+1. Name the assignment "Labster - Dashboard"
+1. Click "Add Item"
+1. Open the "Labster - Dashboard" assignment
+1. Click "Edit"
+1. Select the "External Tool" option in the Submission Type dropdown.
+1. Click "Find"
+1. Click "Labster US 2022-01-18"
+![An orange circle over the "Labster US 2022-01-18" item in a Configure External Tool list in Canvas.](../images/LabsterDashboard2.png)
+1. Click "Add" next to Labster Dashboard
+![An orange circle highlighting the Add button for the Labster Dashboard in the Link Resource from External Tool page.](../images/LabsterDashboard3.png)
+1. Click "Add to course"
+![An orange circle highlighting the Add to course button in the Link Resource from External Tool page for Labster.](../images/LabsterDashboard4.png)
+1. Click "Select"
+1. Click "Save"
+1. Open the Instrcutor Guide page
+1. Click "Edit"
+1. Add the following language to the Labster information in the Instructor Guide: 
+"The Labster Dashboard in the Instructor Guide module is a resource where you can look at the grades of student’s completed Labster assignments. Please leave this unpublished.
+
+If a student doesn’t have a grade for a Labster assignment in the grade book after the due date of the assignment has passed, check the dashboard for their grade and manual enter it into grade book."
+1. Click "Save"
