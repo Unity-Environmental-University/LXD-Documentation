@@ -14,7 +14,7 @@
                 make sure the changes are made everywhere they need to be made.
             </li>
             <li>Let me know, when you have a chance to look, if you have any questions, or spot any issues with the
-                course content.
+                course content. Be sure to check that your pic and bio on the course homepage are accurate.
             </li>
             <li>Be sure to check out the Instructor Orientation for useful information, such as your instructor
                 bio/picture, grading. There is also a Labster Instructor Guide that you should review if your course
@@ -32,6 +32,6 @@
         </ul>
         {additions}
         <p>We appreciate your help in making sure these courses are good to go. Have a wonderful term.</p>
-        <p>Cheers,</p>
+        <p>Sincerely,</p>
         <p>{{userName}}</p>
 
