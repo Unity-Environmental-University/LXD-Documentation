@@ -11,7 +11,7 @@
 >
 {style="note"}
 
-## What are add to Canvas Shell Requests?
+## What are Add to Canvas Shell Requests?
 
 Add to Canvas Shell requests are submitted to add faculty to their assigned Canvas course.
 
@@ -20,20 +20,19 @@ Add to Canvas Shell requests are submitted to add faculty to their assigned Canv
 >When you receive a notification that a new user has been added to the Add to Canvas Shell Request list:
 
 1. Check
-   - Term
    - Add to Instructor Orientation
    - Course
    - User Name
-   - Faculty
-   - Notes
-2. Go to the DEV course in Canvas that corresponds with the Course
-3. Click "People" in the Courses Navigation Menu
-4. Click "+ People"
-5. Under "Add user(s) by" Click on "Login ID"
-6. In the text box for "Login IDs (required)" type the user name provided
-7. Under "Role" change to "Course QA" unless the request states otherwise
-8. Check box for "Can interact with users in their section only"
-9. Click "Next"
-10. Click "Add Users"
+1. Go to the DEV course in Canvas that corresponds with the Course
+1. Click "People" in the Courses Navigation Menu
+1. Click "+ People"
+1. Under "Add user(s) by" Click on "Login ID"
+1. In the text box for "Login IDs (required)" type the user name provided
+1. Under "Role" change to "Course QA" unless the request states otherwise
+1. Click "Next"
+1. Click "Add Users"
+1. If "Add to Instructor Orientation" is checked, add the User to Faculty Foundations and Canvas Orientation
+   - Follow the same process but make sure their role is "Student"
 
->Once you're done, add your initial to the "Added (initial)" section of the spreadsheet
+
+>Once you're done, add your initials to the "Added (initial)" section of the spreadsheet
