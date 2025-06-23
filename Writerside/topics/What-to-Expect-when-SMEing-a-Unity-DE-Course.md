@@ -34,6 +34,12 @@ is a piece. They will check in at regular intervals, defined in the timeline for
 At certain milestones in the development they're asked to comment directly on the course content and
 either approve or request it be reworked. 
 
+## Communication Expectations
+ 
+As a SME for Unity Environmental University, you are provided with a Unity email account and Google Drive access. During the development, please use your Unity credentials to access both email and relevant documents within Google Drive rather than your personal email. 
+If you are struggling to complete the assigned tasks by the due date you determined with the learning designer because you're feeling confused or stuck, please reach out to the designer prior to your next meeting. If you are unable to complete assigned tasks because of personal commitments, please also reach out; this allows the learning designer to plan ahead for best use of your meeting time. 
+Additionally, please check your Unity email frequently and respond within 36 hours; even though you meet 1-2x weekly, the learning designer you’re working with may have questions or information to convey that requires a timely response.
+
 ## The development
 The kick-off email you receive will also have some information about the
 course and the role of the LD. You will note the email contains the Course Description,
