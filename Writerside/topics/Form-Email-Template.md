@@ -20,8 +20,7 @@
                 bio/picture, grading. There is also a Labster Instructor Guide that you should review if your course
                 contains a Labster simulation(s) in the course modules.
             </li>
-            <li>Consult the Instructor Guide in your course for a brief overview of important information for teaching
-                the course
+            <li>Consult the Instructor Guide in your course for a brief overview of important information for teaching the course. The Instructor Guide will also include a note in the top right corner indicating if the course was recently updated (with a specific date); if you taught this course prior to the most recent updates, we encourage you to review the course carefully so you are familiar with the updated content.
             </li>
             <li>If you have technology or Canvas related questions, please contact <a
                 href='mailto:helpdesk@unity.edu'>helpdesk@unity.edu</a>.
