@@ -127,6 +127,7 @@
     <toc-element topic="Creative-Content.md">
         <toc-element topic="Studio-Technical-Setup﻿.md"/>
         <toc-element topic="Production-Guide.md"/>
+        <toc-element topic="Installing-Codex-Windows.md"/>
     </toc-element>
 
 </instance-profile>
