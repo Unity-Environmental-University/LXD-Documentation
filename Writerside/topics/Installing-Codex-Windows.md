@@ -86,7 +86,3 @@ You’ve now:
 * Installed and logged into the OpenAI Codex CLI
 
 You're all set to start coding with Codex! 🧠💻
-
----
-
-Let me know if you’d like this exported to a file or expanded with troubleshooting steps.
