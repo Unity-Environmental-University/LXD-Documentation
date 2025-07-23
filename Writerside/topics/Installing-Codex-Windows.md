@@ -15,7 +15,7 @@ This guide walks you through installing Ubuntu via WSL on Windows, setting up No
 
 Open **PowerShell as Administrator**, then run:
 
-```powershell
+```bash
 wsl --install -d Ubuntu
 ```
 
