@@ -3,6 +3,7 @@
 ## Lighting
 Use three-point lighting to illuminate the SME/Dean, avoiding harsh shadows and creating a flattering appearance.
 - Place key light on subject’s smart side (away from the camera) and fill light on the subject’s dumb side (facing the camera) for maximized depth.
+- Use a scissor clip to secure the rim light to the drop ceiling tile support rails that are centered with the talent.
 - Adjust barn doors to direct light and avoid excessive blooming from rim light.
 
 | **Light** | **Output** | **Kelvin** | **Diffusion**                 |
@@ -12,61 +13,61 @@ Use three-point lighting to illuminate the SME/Dean, avoiding harsh shadows and 
 | Rim       | 35%        | 3600       | Opal Frost                    |
 
 ## Audio
-- Place Sennheiser shotgun mic just out of frame above the subject via boom stand on the subject’s dumb side.
-- Plug male end of XLR into the XLR to 3.5mm jack adapter. Then plug 3.5mm jack into Sony FX3 audio input.
-- Audio Rec Level should be set to 18.
+- Place Sennheiser shotgun mic just out of frame above the subject via the boom stand (ideally, within 18 in.)
+- Plug male end of XLR into the XLR to 3.5mm jack adapter the A camera hot shoe. Then plug the 3.5mm jack into Sony FX3 audio input.
+- Camera audio rec Level should be set to 18.
 - Test and monitor levels, which should range from -18db to -6db for crisp audio.
 
 ## Camera Position
-| **Camera**                          | **Measurement** |
-|-------------------------------------|-----------------|
-| `A` Camera Distance from Background | 14 ft.          |
-| `A` Camera Height (floor to sensor) | 46.5 in.        |
-| `B` Camera Height (floor to sensor) | 48.5 in.        |
-| Distance Between Center of Sticks   | 43 in.          |
+| **Camera**                                         | **Measurement** |
+|----------------------------------------------------|-----------------|
+| `A` Camera Distance from Background                | 14 ft.          |
+| `A` Camera Height (floor to sensor)                | 47 in.          |
+| `B` Camera Height (floor to sensor)                | 47 in.          |
+| `A` & `B` Camera Distance Between Center of Sticks | 43 in.          |
 
-## Camera Settings
-### Sony FX3
+## `A` Camera Sony FX3 Settings
 
-| **Feature**                        | **Setting**          |
-|------------------------------------|----------------------|
-| Mode                               | Manual               |
-| Frame Rate                         | 23.98p               |
-| Aperture                           | F2.8                 |
-| White Balance                      | 3600K                |
-| Resolution                         | UHD 3840 x 2160      |
-| Color Space                        | S-Gamut3.Cine/S-log3 |
-| Codec                              | XAVC S 4K            |
+| **Feature**                          | **Setting**          |
+|--------------------------------------|----------------------|
+| Mode                                 | Manual               |
+| Frame Rate                           | 23.98p               |
+| Aperture                             | F4.0                 |
+| White Balance                        | 3600K                |
+| Resolution                           | UHD 3840 x 2160      |
+| Color Space                          | S-Gamut3.Cine/S-log3 |
+| Codec                                | XAVC S 4K            |
+| Bit rate, Color Sampling, Bit depth  | 100M 422 10bit       |
+| Monitoring LUT                       | s709 On              |
+| Base ISO/EI                          | 800                  |
+| Shutter                              | 1/48                 |
+| Audio Rec Level                      | 18                   |
+| Lens                                 | Sigma 24-70mm F4.0   |
+| Focus                                | Face/Eye AF          |
+| Focal Length                         | 50mm                 |
+| Filters                              | Black Pro Mist 1/8   |
+
+
+## `B` Camera Sony FX3 Settings
+
+| **Feature**                         | **Setting**          |
+|-------------------------------------|----------------------|
+| Mode                                | Manual               |
+| Frame Rate                          | 23.98p               |
+| Aperture                            | F4.0                 |
+| White Balance                       | 3600K                |
+| Resolution                          | UHD 3840 x 2160      |
+| Color Space                         | S-Gamut3.Cine/S-log3 |
+| Codec                               | XAVC S 4K            |
 | Bit rate, Color Sampling, Bit depth | 100M 422 10bit       |
-| Monitoring LUT                     | s709 On              |
-| Base ISO/EI                        | 800                  |
-| Shutter                            | 1/48                 |
-| Audio Rec Level                    | 18                   |
-| Lens                               | Sigma 24-70mm F4.0   |
-| Focal Length                       | 70mm                 |
-| Filters                            | Black Pro Mist 1/8   |
-
-
-### Blackmagic Pocket Cinema Camera 4K
-
-| **Feature**                         | **Setting**        |
-|-------------------------------------|--------------------|
-| Mode                                | Manual             |
-| Frame Rate                          | 23.98p             |
-| Aperture                            | F4.5               |
-| White Balance                       | 3600K              |
-| Resolution                          | UHD 3840 x 2160    |
-| Color Space                         | BMD Video Gen 4    |
-| Codec                               | ProRes HQ          |
-| Bit rate, Color Sampling, Bit depth | 220M 422 10bit     |
-| Dynamic Range                       | Film               |
-| Monitoring LUT                      | On                 |
-| Base ISO/EI                         | 800                |
-| Shutter                             | 180                |
-| Audio Rec Level                     | Onboard recording  |
-| Lens                                | Sigma 18-35mm T1.2 |
-| Focal Length                        | 35mm               |
-| Filters                             | Black Pro Mist 1/4 |
+| Monitoring LUT                      | s709 On              |
+| Base ISO/EI                         | 800                  |
+| Shutter                             | 1/48                 |
+| Audio Rec Level                     | 18                   |
+| Lens                                | Sigma 24-70mm F4.0   |
+| Focus                               | Face/Eye AF          |
+| Focal Length                        | 70mm                 |
+| Filters                             | Black Pro Mist 1/4   |
 
 ### Equipment to Purchase
 
