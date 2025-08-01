@@ -1,4 +1,4 @@
-# Scripted Interview Production Guide
+# Scripted Production Guide
 
 This production guide is designed to assist the Creative Content team as well as Deans and SMEs in preparing for polished, scripted recording sessions. These recordings will be used to narrate course trailers, delivering the same caliber and engagement found in MasterClass trailers. The guide covers everything from script development and narration techniques to camera presence and post-production, ensuring a professional and captivating final product.
 
