@@ -106,4 +106,4 @@ your responsibility to vet this information and ensure that it is accurate and g
 course development expectations including backwards design, appropriate scaffolding, clear instructions, and 
 authentic, relevant assignments. 
 
-For more information on Unity’s AI-First Design Principles, please see this page. 
+For more information on Unity’s AI-First Design Principles, please see [this page.](https://unity.edu/about-unity/strategy/ai-first-design-principles/) 
