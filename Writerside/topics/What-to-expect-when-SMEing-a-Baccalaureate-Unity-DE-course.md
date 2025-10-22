@@ -107,3 +107,5 @@ course development expectations including backwards design, appropriate scaffold
 authentic, relevant assignments. 
 
 For more information on Unity’s AI-First Design Principles, please see [this page.](https://unity.edu/about-unity/strategy/ai-first-design-principles/)
+
+<a href = "https://unity.edu/about-unity/strategy/ai-first-design-principles"></a>
