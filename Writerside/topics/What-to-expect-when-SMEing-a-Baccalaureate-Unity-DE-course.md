@@ -1,4 +1,4 @@
-# What to expect when SMEing a Baccalaureate Unity DE course
+# What to expect when SME-ing a Baccalaureate Unity DE course
 
 First, thank you for being the Subject Matter Expert (SME) for Unity DE. Your
 expertise is invaluable, and we are excited to work with you! This website will give
@@ -49,7 +49,7 @@ Outcomes to be Directly Assessed (these last will need to be aligned at some poi
 Additionally, the Assistant Director sets the deadline for completion.
 1. Please read the Course Description, Course Outcomes, and Program Outcomes for Conceptual Development, 
 as this will give you an idea of what students will be expected to be able to do upon completing the course.
-2. The LD will contact you to set up the first meeting via TEAMS videochat.
+2. The LD will reach out to you to set up the first meeting via TEAMS videochat.
 3. First meeting: this is a “get to know you” video conference, but it will also be the time to set the calendar for 
 the 8-16 weeks (8-10 for a 1-credit new build; 10-12 for a 2-credit new build; 12-16 for a 3-credit new build) and 
 follow up on this overview. SMEs and LDs meet at least once a week, but this can be arranged between the two of you. 
@@ -107,5 +107,3 @@ course development expectations including backwards design, appropriate scaffold
 authentic, relevant assignments. 
 
 For more information on Unity’s AI-First Design Principles, please see [this page.](https://unity.edu/about-unity/strategy/ai-first-design-principles/)
-
-<a href = "https://unity.edu/about-unity/strategy/ai-first-design-principles"></a>
