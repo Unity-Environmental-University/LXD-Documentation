@@ -40,13 +40,79 @@ As a SME for Unity Environmental University, you are provided with a Unity email
 If you are struggling to complete the assigned tasks by the due date you determined with the learning designer because you're feeling confused or stuck, please reach out to the designer prior to your next meeting. If you are unable to complete assigned tasks because of personal commitments, please also reach out; this allows the learning designer to plan ahead for best use of your meeting time. 
 Additionally, please check your Unity email frequently and respond within 36 hours; even though you meet 1-2x weekly, the learning designer you’re working with may have questions or information to convey that requires a timely response.
 
+## Before Your First Meeting - How to Prepare
+
+To make your first meeting productive, review these materials and come ready to discuss:
+
+### Course Outcomes and Alignment
+
+The kick-off email you receive will contain:
+- **Course Description** - What the course covers
+- **Course Outcomes** - What students should be able to do at the end of the course (these may be draft; you'll refine them)
+- **Program Outcomes for Conceptual Development** - Broader degree goals your course supports
+- **Program Outcomes to be Directly Assessed** - Key skills that students must demonstrate in this course (usually measured by a major assignment or project)
+
+**What to do:**
+1. **Read everything carefully** - Understand the scope and goals
+2. **Identify gaps** - What's missing from the course description? What should students definitely learn?
+3. **Think about assessment** - How will students prove they can do what the outcomes claim?
+4. **Bring questions** - Jot down anything unclear or that you disagree with
+
+### Understanding Bloom's Taxonomy
+
+At Unity, all course outcomes and activities are intentionally designed to move students up **Bloom's Taxonomy** - from basic knowledge to higher-order thinking.
+
+**Bloom's Levels (in order of complexity):**
+1. **Remember** - Define, recognize, recall facts
+2. **Understand** - Explain, summarize, classify
+3. **Apply** - Use information in new situations, solve problems
+4. **Analyze** - Distinguish parts, find relationships, breakdown components
+5. **Evaluate** - Defend judgments, critique approaches, justify decisions
+6. **Create** - Combine elements in new ways, design solutions
+
+**At Unity, we emphasize Levels 3-6.** Your assignments and Course Project should push students beyond mere recall toward analysis, evaluation, and creation.
+
+**Resources to review before your first meeting:**
+- [Bloom's Taxonomy Guide](https://www.cebm.net/wp-content/uploads/2016/09/Blooms-Taxonomy-Teacher-Planning-Kit.pdf) (includes level descriptors and action verbs)
+- [Webb's Depth of Knowledge](https://www.aps.edu/sapr/documents/resources/Webbs_DOK_Guide.pdf) (another framework for thinking about cognitive complexity)
+
+**Questions to ask yourself:**
+- What is the highest level of Bloom's that students need to reach in this course?
+- How will assignments help students climb the levels progressively?
+- Does my Course Project require students to create or evaluate (not just apply or understand)?
+
+### Brainstorm Your Course Project
+
+Begin thinking about what authentic, real-world deliverable students could produce in your course. Some questions to consider:
+
+**What does a professional in your field actually produce?**
+- A report? A proposal? A design? A presentation?
+- An analysis? A plan? A product evaluation? A research study?
+
+**What would be meaningful for students to work on?**
+- Something they could actually use in their career?
+- A deliverable they could include in a portfolio?
+- A genuine problem they'd encounter in professional practice?
+
+**What would be feasible in an online, asynchronous course?**
+- Can students do it without face-to-face collaboration?
+- Can they complete components progressively (scaffolded)?
+- Can it be assessed fairly and consistently?
+
+**Bring 1-3 Course Project ideas to your first meeting.** Your LXD will help you refine these and develop one into the capstone assessment.
+
+### Gather Example Materials and Resources
+
+Start collecting materials you might use in the course:
+- **Readings** - Journal articles, book chapters, reports
+- **Videos** - Educational videos or documentaries relevant to content
+- **Tools** - Software, simulations, or platforms students might use
+- **Authentic Examples** - Real-world documents, projects, or case studies from your field
+- **Datasets** - Data students could analyze or work with
+
+You don't need everything gathered, but having a sense of what's available helps your first meeting discussion.
+
 ## The development
-The kick-off email you receive will also have some information about the
-course and the role of the LD. You will note the email contains the Course Description,
-Course Outcomes, Program Outcomes for Conceptual Development and Program
-Outcomes to be Directly Assessed (these last will need to be aligned at some point in
-the course by an assignment). Additionally, the Director sets the deadline for
-completion.
 1. Please read the Course Description, Course Outcomes, and Program Outcomes
    for Conceptual Development, as this will give you an idea of what students will be
    expected to be able to do upon completing the course.

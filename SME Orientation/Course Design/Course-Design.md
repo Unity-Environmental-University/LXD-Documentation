@@ -1,7 +1,27 @@
-# Course Design
+# Course Design at Unity
 
+## Philosophy and Approach
 
-The LXD team works with SMEs to design both undergraduate and graduate level courses.
+The LXD team works with SMEs to design both undergraduate and graduate level courses using a **backwards design** approach aligned with instructional design best practices. At Unity DE, course development is centered on learning outcomes, not content delivery. We start by asking: *What can students do at the end of this course?* From there, we work backwards to design authentic, meaningful assessments and activities that prepare students to meet those outcomes.
+
+This learner-centered approach ensures courses are:
+- **Outcome-focused** - Every activity aligns to measurable student outcomes
+- **Authentic** - Students work on real-world deliverables and professional tasks
+- **Scaffolded** - Complex skills are built progressively throughout the course
+- **Inclusive** - Universal Design principles are applied to support diverse learners
+
+## Course Maintenance and Iterative Development
+
+Courses are not static; they evolve based on student feedback, content updates, and pedagogical improvements. The course maintenance model includes:
+
+- **Annual Reviews** - Deans and LXDs review course performance, student feedback, and outcomes data
+- **Iterative Improvements** - Continuous refinement of assignments, materials, and activities to enhance learning
+- **Content Updates** - SMEs provide guidance on incorporating new developments or research in their field
+- **Refresh Cycles** - Comprehensive course redesigns occur every 3-5 years based on accreditation, enrollment, or strategic needs
+
+Courses at Unity are viewed as living documents that benefit from ongoing collaboration between LXDs and the broader instructional team.
+
+## Credit Hour Requirements
 
 For undergraduates, the asynchronous course design in addition to the five-week course schedule presents a unique structure for credit hours.
 

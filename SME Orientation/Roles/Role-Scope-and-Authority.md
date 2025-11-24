@@ -1,11 +1,40 @@
 # Role, Scope and Authority
-The Course Development process relies on collaboration between the SME and the LXD, who acts in a Project Manager role
-to assign tasks, maintain deadlines, and ensure institutional standards. The SME contributes content knowledge,
-relevant professional activities or tasks, standard terminology and nomenclature, and the canonical or foundational
-resources (journal articles, books, etc.) of the field. The LXD and SME conceptualize the design and delivery of the
-course to enhance, promote, and facilitate student engagement with the content and set timelines. The LXD leads the SME
-through the design process with a particular focus on content delivery and design. Unity has final say on design choices
-because the course and its content are ultimately Unity Property.
+
+## Collaborative Development Model
+
+The Course Development process relies on collaboration between the SME and the LXD. The SME brings deep content expertise and field knowledge, while the LXD brings pedagogical expertise and project management. Together, they create courses that balance content rigor with instructional quality.
+
+- **The SME** contributes content knowledge, relevant professional activities or tasks, standard terminology and nomenclature, and the canonical or foundational resources (journal articles, books, etc.) of the field.
+- **The LXD** leads the SME through the design process with a particular focus on content delivery, instructional design, and student engagement.
+
+The LXD and SME conceptualize the design and delivery of the course to enhance, promote, and facilitate student engagement with the content and set timelines.
+
+## Decision-Making Authority
+
+Clear authority structures ensure efficient decision-making while maintaining quality standards:
+
+### Learning Experience Designer (LXD) - Development Authority
+The **LXD has primary authority** over course design decisions during development, including:
+- Pedagogical choices (activity types, assessment formats, sequencing)
+- Course structure and organization
+- Student-facing language and instructions
+- Learning technology implementation
+
+This authority ensures courses maintain pedagogical integrity and align with Unity's standards.
+
+### Academic Dean - Ultimate Authority and Veto Power
+The **Dean has ultimate authority** over curriculum decisions and can veto any course element or design choice. The Dean's responsibilities include:
+- Curriculum alignment and program coherence
+- Academic rigor and accreditation standards
+- Course content approval at key milestones
+- Final sign-off on all course components before delivery
+
+The Dean may request changes or rework at any major milestone (Course Outcomes approval, Course Project approval, Draft Design review, Final QA approval).
+
+### Working Together
+In practice, LXDs and Deans work collaboratively. The LXD makes day-to-day design decisions in consultation with the SME, and the Dean reviews these decisions at key milestones. If the Dean and LXD disagree, the Dean's decision prevails. If the Dean and LXD agree but the SME has concerns, the LXD facilitates discussion but maintains design authority.
+
+**Note:** Unity has final say on all design choices because the course and its content are ultimately Unity Property.
 
 When designing course content, LXDs want to allow for a SME’s creativity and flexibility to infuse real world relevance
 to the activities. At the same time, the LXD must consider the feasibility of completing such tasks in an online,
