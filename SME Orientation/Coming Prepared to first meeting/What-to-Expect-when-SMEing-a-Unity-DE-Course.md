@@ -167,7 +167,7 @@ You don't need everything gathered, but having a sense of what's available helps
    necessary for the rubric.
    - Discussions: At least one discussion is required each week. These will
    also need written descriptions and instructions. Discussions require an
-   initial post and at least 2 responses to other students’ posts.
+   initial post and at least 2 responses to other students' posts.
    - Quizzes: Quizzes are generally low stakes, and can be created using a
    variety of formats, including Multiple Choice, Short Answer, True/False,
    Essay Questions etc. These are not required, but if you create a quiz, you
@@ -177,6 +177,63 @@ You don't need everything gathered, but having a sense of what's available helps
    review the catalog of [Labster Simulations](https://www.labster.com/simulations) (a 3rd party software)
    or another platform.
    - Video Recordings: You will be required to record yourself on camera
-   discussing an overview of the week’s material and/or specific content
+   discussing an overview of the week's material and/or specific content
 
 <note>You may, or may not, be one of the instructors teaching the course when it runs.</note>
+
+## Knowledge Check: Multiple Choice Questions
+
+Test your understanding of coming prepared with these questions:
+
+### Question 1
+Which of Bloom's Taxonomy levels does Unity DE emphasize in course design?
+- A) Remember and Understand
+- B) Apply, Analyze, Evaluate, and Create
+- C) Only Create level
+- D) All levels equally with no emphasis
+
+**Correct Answer: B** - Unity emphasizes higher-order thinking skills (Levels 3-6), pushing students beyond mere recall toward analysis, evaluation, and creation.
+
+---
+
+### Question 2
+What is the central question you should ask when brainstorming your Course Project?
+- A) How much will students enjoy this?
+- B) What is an authentic, real-world deliverable a professional in my field would actually produce?
+- C) What is the easiest thing for students to do?
+- D) How many points should this assignment be worth?
+
+**Correct Answer: B** - The Course Project should reflect real professional work that students could actually use in their career, making it authentic and meaningful.
+
+---
+
+### Question 3
+According to course outcome writing standards, outcomes should:
+- A) Focus on what students will know (content knowledge)
+- B) Be written as "Students will be able to..." (skills and applications)
+- C) Be vague to allow flexibility
+- D) Only address basic recall
+
+**Correct Answer: B** - Outcomes should emphasize skills and applications students can perform, not just knowledge they'll acquire. This requires "Students will be able to..." language.
+
+---
+
+### Question 4
+Before your first meeting, which of the following should you gather?
+- A) Completed assignments (you'll use these as examples)
+- B) 5-10 potential learning materials relevant to your course content
+- C) The complete syllabus already written
+- D) Final course project rubric
+
+**Correct Answer: B** - You should gather readings, videos, tools, and authentic examples relevant to your content. This helps you and your LXD discuss what students will need to succeed.
+
+---
+
+### Question 5
+What does "scaffolding" mean in the context of course project development?
+- A) Building temporary structures to hold materials
+- B) Breaking the Course Project into components due progressively, with feedback between submissions
+- C) Assigning the entire project due on day one
+- D) Avoiding complex projects altogether
+
+**Correct Answer: B** - Scaffolding means breaking complex tasks into smaller, progressively challenging components, allowing students to build skills and receive feedback before the final product.

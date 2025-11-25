@@ -197,6 +197,63 @@ Throughout development, remember this approval structure:
 - **Dean** reviews at major milestones for academic rigor and curriculum fit
 - **Students** ultimately benefit from a well-designed course
 
+## Knowledge Check: Multiple Choice Questions
+
+Test your understanding of the Development Timeline with these questions:
+
+### Question 1
+How long does a typical 3-credit course development take at Unity DE?
+- A) 4-6 weeks
+- B) 12-16 weeks
+- C) 20-24 weeks
+- D) 1 year
+
+**Correct Answer: B** - 3-credit courses typically take 12-16 weeks, while 1-credit courses take 8-10 weeks and 2-credit courses take 10-12 weeks.
+
+---
+
+### Question 2
+What is the first major milestone in course development?
+- A) Course Project Approval
+- B) QA Review
+- C) Course Outcomes Approval
+- D) Canvas Build Complete
+
+**Correct Answer: C** - Course Outcomes Approval is Milestone 1 (Weeks 1-2), where the Dean reviews outcomes for rigor, alignment, and feasibility.
+
+---
+
+### Question 3
+During Milestone 3 (Draft Course Design Review), what does the Dean primarily look for?
+- A) Technical Canvas setup
+- B) Content rigor and alignment to outcomes
+- C) Grammar and spelling in materials
+- D) Video production quality
+
+**Correct Answer: B** - The Dean reviews draft designs for content rigor and alignment to course outcomes, and may request content changes or additional assessments.
+
+---
+
+### Question 4
+What is the recommended time commitment for an SME during course development?
+- A) 2-4 hours per week
+- B) 20-30 hours per week
+- C) 8-18 hours per week total (including meetings, homework, and revisions)
+- D) 5-10 hours per week maximum
+
+**Correct Answer: C** - SMEs should expect 2-4 hours in weekly meetings, 4-10 hours on homework assignments, and 2-4 hours on revisions and QA review, totaling 8-18 hours per week.
+
+---
+
+### Question 5
+What should you do if you're struggling to meet a deadline?
+- A) Submit incomplete work and explain later
+- B) Skip the meeting to have more time
+- C) Reach out to your LXD BEFORE the due date to identify blockers and adjust the plan
+- D) Work longer hours without communicating about delays
+
+**Correct Answer: C** - Early communication with your LXD allows them to prioritize differently, adjust meetings, or identify solutions before delays impact the project timeline.
+
 Everyone has a role, and clear communication keeps the process moving smoothly.
 
 ## Table of Contents

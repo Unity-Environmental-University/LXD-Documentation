@@ -228,5 +228,64 @@ If a tool isn't serving these purposes, we find a better one.
 
 Your LXD is your technology guide. Don't hesitate to ask questions!
 
+## Knowledge Check: Multiple Choice Questions
+
+Test your understanding of Technologies and Tools with these questions:
+
+### Question 1
+Which tool is the primary workspace for course development collaboration at Unity DE?
+- A) Canvas
+- B) Google Drive
+- C) Zoom
+- D) Email attachments
+
+**Correct Answer: B** - Google Drive is the central hub for all course development collaboration, offering real-time editing, version control, and automatic organization of course materials.
+
+---
+
+### Question 2
+According to best practices, how should you share course development documents with your LXD?
+- A) Email attachments to your personal email
+- B) Google Drive using your Unity credentials
+- C) Printed copies by mail
+- D) USB flash drives
+
+**Correct Answer: B** - You should use Google Drive with Unity credentials, avoiding email attachments. This ensures version control, real-time collaboration, and proper access permissions.
+
+---
+
+### Question 3
+When recording instructor videos for your course, which of these is NOT mentioned as an acceptable requirement?
+- A) Clear audio and steady camera
+- B) Captions or transcripts
+- C) Videos that are 30+ minutes long
+- D) Professional appearance
+
+**Correct Answer: C** - Videos should typically be 5-15 minutes long. Long videos (30+ minutes) are not recommended for online courses.
+
+---
+
+### Question 4
+Which of the following is listed as an ACCEPTABLE use of AI in SME course development?
+- A) Using AI-generated text as your own without editing
+- B) Brainstorming assignment ideas and generating multiple versions for LXD to choose from
+- C) Allowing AI to write your course content that you don't understand
+- D) Having AI create all quiz questions without review
+
+**Correct Answer: B** - Acceptable uses include brainstorming, generating options for LXD feedback, organizing content, and proofreading—but not replacing your expertise or submitting unreviewed AI text as your own.
+
+---
+
+### Question 5
+What is the key principle for AI use in student assignments?
+- A) Students should never use AI for any reason
+- B) AI use should be designed considering academic integrity and whether it aligns with learning outcomes
+- C) Any AI use is automatically acceptable with disclosure
+- D) AI policies are not necessary for online courses
+
+**Correct Answer: B** - Course AI policies should be explicit about when AI is prohibited, allowed with disclosure, or encouraged, depending on the learning outcomes and assignment design.
+
+---
+
 ## Table of Contents
 <toc></toc>

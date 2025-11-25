@@ -203,5 +203,64 @@ When developing your course, instructors who teach it will expect:
 ✓ **Adequate materials** - Students have everything needed to succeed
 ✓ **Realistic workload** - The course honors the credit hour requirements without overloading
 
+## Knowledge Check: Multiple Choice Questions
+
+Test your understanding of Course Components and Alignment with these questions:
+
+### Question 1
+In the alignment chain at Unity DE, which comes first in the design process?
+- A) Learning Materials
+- B) Graded Activities
+- C) Course Outcomes
+- D) Weekly lesson plans
+
+**Correct Answer: C** - The alignment chain starts with Course Outcomes (aligned to Program Outcomes), then flows down to Graded Activities and Learning Materials.
+
+---
+
+### Question 2
+What is the primary purpose of the Course Project in a Unity course?
+- A) To keep students busy at the end of the term
+- B) A cumulative, real-world deliverable that synthesizes learning and demonstrates multiple outcomes
+- C) To replace all other graded activities
+- D) To provide extra credit opportunities
+
+**Correct Answer: B** - The Course Project is the capstone assessment that allows students to demonstrate mastery of multiple outcomes through an authentic, real-world task.
+
+---
+
+### Question 3
+Which type of graded activity is primarily designed to allow for multiple valid responses and peer learning?
+- A) Quizzes
+- B) Assignments
+- C) Discussions
+- D) Course Projects
+
+**Correct Answer: C** - Discussions are collaborative learning activities where students share ideas and learn from peer perspectives, allowing multiple valid responses and viewpoints.
+
+---
+
+### Question 4
+According to instructor expectations, assignment instructions should be:
+- A) Brief so students have to figure things out independently
+- B) Thorough and self-contained, not requiring additional explanation
+- C) Delivered in person or via video to clarify
+- D) Intentionally vague to encourage creativity
+
+**Correct Answer: B** - Assignment directions must be complete, specific, and self-contained since students in online courses only have these written instructions to reference.
+
+---
+
+### Question 5
+What is the relationship between Learning Materials and Graded Activities?
+- A) Learning materials are graded assignments
+- B) Learning materials are supplementary extras; graded activities are optional
+- C) Learning materials support students in developing knowledge/skills needed for graded activities
+- D) They are completely separate with no connection
+
+**Correct Answer: C** - Learning materials are curated resources that enable students to develop the knowledge and skills needed to successfully complete graded activities, though materials themselves are not separately assessed.
+
+---
+
 ## Table of Contents
 <toc></toc>

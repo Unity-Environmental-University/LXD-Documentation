@@ -36,11 +36,70 @@ In practice, LXDs and Deans work collaboratively. The LXD makes day-to-day desig
 
 **Note:** Unity has final say on all design choices because the course and its content are ultimately Unity Property.
 
-When designing course content, LXDs want to allow for a SME’s creativity and flexibility to infuse real world relevance
+When designing course content, LXDs want to allow for a SME's creativity and flexibility to infuse real world relevance
 to the activities. At the same time, the LXD must consider the feasibility of completing such tasks in an online,
 asynchronous environment. One useful method is for the SME and LXD to collaboratively draft a discussion to demonstrate
 the required format, and then the SME can work to develop subsequent discussions with their expertise and the desired
 format. A similar process also works for developing assignments, which require detailed, student-facing directions.
+
+## Knowledge Check: Multiple Choice Questions
+
+Test your understanding of roles and authority with these questions:
+
+### Question 1
+According to the decision-making structure, who has primary authority over pedagogical choices during course development?
+- A) The Academic Dean
+- B) The Learning Experience Designer (LXD)
+- C) The Subject Matter Expert (SME)
+- D) A committee of all three roles
+
+**Correct Answer: B** - The LXD has primary development authority over pedagogical decisions like activity types, assessment formats, and course structure to ensure courses maintain instructional quality.
+
+---
+
+### Question 2
+What is the correct approval hierarchy if the Dean and LXD disagree about a course design decision?
+- A) The SME makes the final decision
+- B) The LXD's decision prevails because they're the project manager
+- C) The Dean's decision prevails because they have ultimate authority
+- D) They must keep discussing until they agree
+
+**Correct Answer: C** - The Dean has ultimate authority over curriculum decisions and can veto any course element or design choice.
+
+---
+
+### Question 3
+Which of the following is NOT listed as a responsibility of the Academic Dean?
+- A) Establishing program-level learning outcomes
+- B) Creating detailed assignment instructions
+- C) Approving course milestones
+- D) Aligning curriculum with accreditation standards
+
+**Correct Answer: B** - Creating detailed assignment instructions is an SME responsibility, not a Dean responsibility. Deans are responsible for curriculum, outcomes, rigor, and approval.
+
+---
+
+### Question 4
+The LXD's role is best described as:
+- A) The final authority on all course decisions
+- B) Project manager who guides SMEs through design with pedagogical expertise
+- C) Responsible for recording all instructor videos
+- D) The person who teaches the course to students
+
+**Correct Answer: B** - LXDs function as project managers bringing pedagogical expertise, ensuring instructional quality, and guiding SMEs through the design process.
+
+---
+
+### Question 5
+How should an SME and LXD collaborate when designing discussions or assignments?
+- A) The SME writes everything independently, then the LXD reviews
+- B) They collaboratively draft a sample to demonstrate the format, then the SME develops others using that model
+- C) The LXD writes all instructions; the SME only provides content
+- D) They each take turns without consulting each other
+
+**Correct Answer: B** - Collaborative drafting of a sample discussion or assignment helps establish the format and expectations, allowing the SME to develop subsequent ones with guidance.
+
+---
 
 ## Team Roles and Responsibilities
 Course development is a highly collaborative process. The Learning Experience Design Team is responsible for the design,
