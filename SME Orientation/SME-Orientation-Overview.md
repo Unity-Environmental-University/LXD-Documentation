@@ -1,10 +1,10 @@
 # SME Orientation: Welcome to Course Development at Unity DE
 
-Welcome to the course development process at Unity Environmental University's Distance Education program! This orientation is designed to help you understand the philosophy, structure, roles, and logistics of developing an online course with the Learning Experience Design team.
+Welcome to your orientation to the course development process at Unity Environmental University. This material is designed to help you understand the philosophy, structure, roles, and logistics of developing an online course with the Learning Experience Design team. It also lays out what you'll be expected to bring to the development kick-off meeting.
 
 ## About This Orientation
 
-This orientation is structured for **self-paced learning** and can be completed in approximately **2 hours**. Each section is designed to be independent, so you can read in any order that makes sense for you.
+This orientation is structured for **self-paced learning** and can be completed in approximately **2 hours**. Each section is designed to be independent, so you can read in any order that makes sense for you. Unless informed otherwise, you're expected to complete the training prior to 
 
 **Recommended Order:**
 1. [Course Design at Unity](#course-design-at-unity)
@@ -22,6 +22,13 @@ This orientation is structured for **self-paced learning** and can be completed 
 
 Learn about the philosophy behind course development at Unity DE, including backwards design, the iterative nature of course maintenance, and credit hour requirements.
 
+### Overview / Script:
+Our course development philosophy is to be intentional and coordinated, even as we innovate and differentiate and give people space to experiment and play. This is a balance we constantly adjust for and will never get perfectly right. But the process is, itself, permenantly iterated upon. We speed some things up, slow other things down, and remove or replace entire steps in the process. Note, too, that depending on the SEBU (GRAD, BACC, Career Edge, etc.) the process may look very different. But the philosophy is always the same.
+
+You'll read a bit about Backwards Design in this section's materials, Course Projects, and inclusivity. The org anizing principle for all of those subjects is that we have a team of experts in adult learning who are charged with managing course developments and ensuring that the resulting courses are up to our standards. In the eyes of the institution, they are co-equal with the faculty to specialize in the subject(s) for which we're designing these courses, and that useful tension - between subject-matter-expert and androgogical-learning-at-Unity expert - is what makes it possible for us to enroll students from all walks of life, while pushing rigor, while innovating with tools and exciting new technologies, while keeping tuition lower than any of our competitors, while achieving retention rates that exceed any of our competitors. 
+
+So: Please recognize that the Learning Designer assigned to you is an expert, a resource, and the project manager for the course development to which you've been assigned. Much of what is covered in this section of the Orientation is stuff they will constantly be adjusting for and guiding toward throughout the development. 
+
 **Key Concepts:**
 - Outcomes-focused course design
 - Course maintenance and iterative development
@@ -35,7 +42,7 @@ Learn about the philosophy behind course development at Unity DE, including back
 **Reflection Questions:**
 - What does "backwards design" mean to you?
 - How do you currently think about measuring student learning?
-- What real-world deliverables exist in your field?
+- What real-world deliverables exist in your field? 
 
 ---
 
@@ -44,6 +51,15 @@ Learn about the philosophy behind course development at Unity DE, including back
 > **Duration:** 10-15 minutes
 
 Understand your role as a Subject Matter Expert, the Learning Experience Designer's role, and the Dean's authority in course development. Clarity on roles prevents confusion and keeps development moving smoothly.
+
+### Overview / Script
+In your role as Subject Matter Expert, your responsibility is to dream big about what's possible in guiding inquisitive minds through your area of expertise. Yes, it's essential that the content be both accurate and relevant to what the Dean intends for the course (it needs to fit into the larger curriculum). But honestly it's not too difficult, in most subject areas, regarding most skills, to research and re-create the common path learners take in analogous courses. What we *can't* do, without your help, is imagine new, better, more compelling or relevant ways to teach the course. The Dean and/or LXD working with you on the course may push back or even veto some of your ideas, but it's always better to work from a coherent, passionate vision for what the course could be than from 
+
+The Dean will set, maintain, and continuously adjust the frame for the course: Course description, outcomes, the intended function of the course in the larger curriculum. 
+
+The LXD will oversee the development timeline, the androgogical principles, any "shadow curriculum" issues, decisions about new tools or technologies versus tried and true options. etc. 
+
+**You** bring experience in the field and the irreplaceable ability to think creatively, from a place of authority, about ways to teach students about said field. So please dream big, and come to the meetings with your LXD with ideas for the course. Much of their job is figuring out how to make your vision possible. Just keep in mind that we are decisive about what is good for our students and what we can support, so even some amazing ideas just aren't possible. But we'll do our best if you can do yours. 
 
 **Key Concepts:**
 - SME vs. LXD responsibilities
@@ -67,6 +83,9 @@ Understand your role as a Subject Matter Expert, the Learning Experience Designe
 > **Duration:** 25-35 minutes
 
 Understand how all course elements—outcomes, graded activities, learning materials, and media—work together to support student learning.
+
+### Overview / Script
+Courses at Unity Environmental University are very regular in structure, which is only possible because we have exacting standards for how 
 
 **Key Concepts:**
 - The alignment chain from program outcomes to daily activities
@@ -117,7 +136,7 @@ Learn about the technology stack you'll use during development: Google Drive, Ca
 Understand the development process from start to finish, including major milestones, approval gates, weekly workflows, and time commitment expectations.
 
 **Key Concepts:**
-- Timeline varies by course credit (8-16 weeks)
+- Timeline varies by course credit and SEBU (8-16 weeks)
 - Four major milestones with Dean approval gates
 - Weekly rhythm and meeting expectations
 - Time commitment: 8-18 hours per week
