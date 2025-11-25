@@ -85,7 +85,9 @@ The LXD will oversee the development timeline, the androgogical principles, any 
 Understand how all course elements—outcomes, graded activities, learning materials, and media—work together to support student learning.
 
 ### Overview / Script
-Courses at Unity Environmental University are very regular in structure, which is only possible because we have exacting standards for how 
+Courses at Unity Environmental University are very regular in structure, which is only possible because we have exacting standards. You may brush up against these in your development; it's possible they may even irritate you (though many find the consistency useful). Just know that they're there for a reason. Our students can traverse different subjects, programs, and even SEBUs without feeling lost. A **huge** factor in our success is that the course design itself takes up as little cognitive load, freeing up more bandwidth for students to devote to their studies. 
+
+So, in this section you'll be introduced to some of the taxonomy we apply to differentiate between and optimize the distinct components of our courses. How are discussions different from assignments, and why are discussions so prescriptive about that initial post? Why do we have quizzes but not exams? And so on.  
 
 **Key Concepts:**
 - The alignment chain from program outcomes to daily activities
@@ -111,16 +113,29 @@ Courses at Unity Environmental University are very regular in structure, which i
 
 Learn about the technology stack you'll use during development: Google Drive, Canvas, video recording tools, and guidelines for AI use.
 
+### Overview / Script:
+As our medium is online learning (in the 2020s!), you can imagine we use quite a bit of technology. We're also inherently exposed to the rapid shifts in technology from which face-to-face education is more able to insulate itself. But we feel confident in our command of what is useful vs shiny, what is worth it vs what isn't, and what a healthy integration of AI looks like. 
+
+Depending on the subject matter and/or skills, students in our courses may not spend as much time at the computer as you think. If studying quantitative research of animals, we would actually prefer you and your partner LXD author assignments that require them to go outside and perform distance sampling. On squirrels, say. If soil science, then maybe they dig a hole. But we're always conscious of the challenges that come with those hands-on assignments, as well. Maybe they have mobility issues that proclude them from going outside, or they live in North Dakota, it's January, and there's no way for them to dig a hole. 
+
+We have a prescribed list of technologies that we use at Unity, so that students don't have to relearn new platforms to achieve similar outcomes. As the list is constantly evolving, we won't cover it in too much detail here. But when students need to record a video, we refer them to a specific tool. 
+
+Finally, we can't talk about technology without acknowleding AI. At Unity, we believe that it is incumbent upon us to learn and teach others how to use AI responsibly. To that end, we actively encourage students to use AI, and try to design our assignments to work with AI productively. We also have policies and best practices regarding the use of AI in course development. We don't know for sure that we have everything figured out, but we do feel like we're at the forefront of intentional, mature integration of AI into ours and our students' processes. 
+
 **Key Concepts:**
 - Google Drive as your collaboration hub
 - Canvas as the course delivery platform
 - Video recording and external media curation
 - Appropriate and inappropriate uses of AI in course development
 - AI policies for students
+- AI policies for content development 
 
 **Key Files:**
 - [Technologies and Tools](Technologies/Technologies-and-Tools.md)
 - [Google Drive](Technologies/Google-Drive.md)
+- [Unity AI-First Design Principles](https://unity.edu/about-unity/strategy/ai-first-design-principles/)
+- [need to add link to AI policies]
+- [need to add link to examples of AI use]
 
 **Reflection Questions:**
 - Are you comfortable with Google Drive and Canvas?
@@ -134,6 +149,15 @@ Learn about the technology stack you'll use during development: Google Drive, Ca
 > **Duration:** 15-20 minutes
 
 Understand the development process from start to finish, including major milestones, approval gates, weekly workflows, and time commitment expectations.
+
+### Overview / Script
+It's imperative that course developments continue on time, as we're a centralized crew overseeing all course maintenance and development. In a more traditional, distributed model, the hundreds of courses we offer would be overseen and continuously iterated by the faculty. But at Unity those courses are overseen by a small number of Learning Designers and other roles on the LXD team. 
+
+Please make sure you're clear on the timeline from day one of development. If there are planned events in your future that will complicate parts of that timeline, be upfront so your LXD can schedule around it. 
+
+We use timelines, among other indicators, to assess the health of our projects. If you're unable to commit the time necessary to see a project to successful completion, on time, just let us know. But otherwise: Please do what you can to meet or even exceed deadlines. 
+
+This section will also go over some of the milestones you will see in your development timeline, as well as the different collaborators who will be brought into the development at those prescribed points. Deans, Learning Media Developers, peer LDs reviewing the content...we have a process with several designed touch points to ensure that the course meets our standards, but we also know that letting five or six people loose, at once, on one project is a strong force for nothing getting done. So we try to intentionally gate those points to protect the 1:1 collaboration between LXD and SME for significant segments - giving them time and space to innovate before others are brought in to review. 
 
 **Key Concepts:**
 - Timeline varies by course credit and SEBU (8-16 weeks)
@@ -158,6 +182,9 @@ Understand the development process from start to finish, including major milesto
 > **Duration:** 20-30 minutes
 
 Before you meet with your Learning Designer, there are specific ways to prepare that will make the process much smoother and faster.
+
+### Overview / Script
+In the kick-off meeting you'll be going over the development timeline, development tools, pinch points, etc. All that operational stuff for organizing the project itself. But you'll also begin discussing the Course Outcomes, Description, whether there will be a textbook, and initial ideas you may have for the course project. These are things we'd love for you to come to that kick-off meeting prepared to talk about, with ideas already formed. This section should, hopefully, set you up to come to that first meeting with some things to discuss with the LXD, so that the course gets off on the right foot and proceeds efficiently. 
 
 **Key Concepts:**
 - Understanding the course documentation you'll receive
